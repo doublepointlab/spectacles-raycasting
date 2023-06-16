@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1686845606883",
+    "lastChanged": "1686903247642",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -47,9 +47,6 @@
                     [
                         "Echopark",
                         "Specular"
-                    ],
-                    [
-                        "Empty Material"
                     ],
                     [
                         "Sphere"
@@ -216,14 +213,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "19",
-                    "uid": "1686671284175153:1132118",
-                    "name": "Files\/File17",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "20",
                     "uid": "1686839036070974:16176",
                     "name": "Files\/File19.js",
@@ -350,14 +339,6 @@
                     "v": "Files\/File16.mesh"
                 },
                 {
-                    "k": "17",
-                    "v": "Files\/File17"
-                },
-                {
-                    "k": "18",
-                    "v": "Files\/File18.lsmat"
-                },
-                {
                     "k": "19",
                     "v": "Files\/File19.js"
                 },
@@ -409,10 +390,6 @@
                     {
                         "k": "27853",
                         "v": "Sphere.mesh"
-                    },
-                    {
-                        "k": "27854",
-                        "v": "Empty Material.lsmat"
                     },
                     {
                         "k": "27855",
@@ -588,22 +565,15 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-06-15T17:37:41",
+                        "lastModified": "2023-06-16T11:13:26",
                         "name": "Public",
-                        "hash": "78085cd356bb574a6d3b54981976d5e0",
+                        "hash": "f5a31c3c9103990aac30cc394dc832ae",
                         "children": [
                             {
                                 "isFolder": "false",
                                 "lastModified": "2023-06-15T18:14:32",
                                 "name": "watch_input_pb.js",
                                 "hash": "a8d3f711320a48d2efa7dc4a2a9249a5",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-06-13T18:48:04",
-                                "name": "Empty Material.lsmat",
-                                "hash": "df68a60fa4205a357c3f3952ab8f21c1",
                                 "children": ""
                             },
                             {
@@ -891,20 +861,6 @@
                                 "hasBlendShapes": "false"
                             }
                         }
-                    },
-                    {
-                        "name": "Empty Material",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "19",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1686671284175153:1132118",
-                        "fileId": "17",
-                        "originalId": "18",
-                        "publicId": "27854",
-                        "source": "",
-                        "additional": ""
                     },
                     {
                         "name": "google-protobuf",
