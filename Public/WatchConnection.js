@@ -3,8 +3,8 @@
 var subscribedOnProtoSensorframes = [];
 var subscribedOnGestures = [];
 
-var watchOutput = require('./watch_output_pb');
-var common = require('./common_pb');
+var watchOutput = require('./protobuf/watch_output_pb');
+var common = require('./protobuf/common_pb');
 
 global.subscribeOnProtoSensorframe = function(func){
     subscribedOnProtoSensorframes.push(func);
@@ -43,7 +43,7 @@ var scanPredicate = function(device, rssi, scan_record) {
 
     if (!foundDevice)
         return false;
-    
+
     var manufacturerDatas = scan_record.getManufacturerAdvData();
     var data = manufacturerDatas[manufacturerDatas.length - 1];
     var kek = bin2str(data.advData());
@@ -84,7 +84,7 @@ function startScan(){
             client.startNotify(GESTURE_UUID, function(data) {
                 fireOnGesture(data[0]);
             });
-            
+
         }, disconnectedCallback)
         .catch(function(err) {
             global.LOG("connection error: " + err)
