@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1686903247642",
+    "lastChanged": "1687191997940",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -47,6 +47,9 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "PointerOrientation"
                     ],
                     [
                         "Sphere"
@@ -243,6 +246,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1687164470425113:2519",
+                    "name": "Files\/File38.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -353,6 +364,10 @@
                 {
                     "k": "37",
                     "v": "Files\/File37.js"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.js"
                 }
             ]
         },
@@ -406,6 +421,10 @@
                     {
                         "k": "27874",
                         "v": "common_pb.js"
+                    },
+                    {
+                        "k": "27875",
+                        "v": "PointerOrientation.js"
                     }
                 ],
                 "hashes": [
@@ -467,7 +486,7 @@
                     },
                     {
                         "k": "27851",
-                        "v": "4a7edf2e156c3cfee18f289d83c6aedf"
+                        "v": "140193076208157831b92d8a82ee92e0"
                     },
                     {
                         "k": "27852",
@@ -560,14 +579,18 @@
                     {
                         "k": "27874",
                         "v": "02e6fbc45ab0598b21bf3a109520ce2c"
+                    },
+                    {
+                        "k": "27875",
+                        "v": "c331270672e2811a65a7ff413681f60a"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-06-16T11:13:26",
+                        "lastModified": "2023-06-19T19:24:24",
                         "name": "Public",
-                        "hash": "f5a31c3c9103990aac30cc394dc832ae",
+                        "hash": "9a2f084b573141990455588b8d89e269",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -606,9 +629,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-06-15T18:49:12",
+                                "lastModified": "2023-06-19T19:25:26",
                                 "name": "WatchConnection.js",
-                                "hash": "4a7edf2e156c3cfee18f289d83c6aedf",
+                                "hash": "140193076208157831b92d8a82ee92e0",
                                 "children": ""
                             },
                             {
@@ -630,6 +653,13 @@
                                 "lastModified": "2022-09-06T00:41:01",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-06-19T19:25:22",
+                                "name": "PointerOrientation.js",
+                                "hash": "c331270672e2811a65a7ff413681f60a",
                                 "children": ""
                             },
                             {
@@ -916,6 +946,20 @@
                         "originalId": "18446744073709551615",
                         "publicId": "27874",
                         "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/common_pb.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "PointerOrientation",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1687164470425113:2519",
+                        "fileId": "38",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27875",
+                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioXASrEQHPjaXV\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     }
                 ]
