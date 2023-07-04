@@ -10,6 +10,7 @@ function onProtoSensorframe(frame) {
 
     grav = new vec3(pGrav.getX(), pGrav.getY(), pGrav.getZ());
     gyro = new vec3(pGyro.getX(), pGyro.getY(), pGyro.getZ());
+    global.LOG("kek " + gyro);
     updateOnSensors();
 
 }

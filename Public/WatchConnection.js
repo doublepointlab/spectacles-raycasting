@@ -48,7 +48,9 @@ var scanPredicate = function(device, rssi, scan_record) {
     var data = manufacturerDatas[manufacturerDatas.length - 1];
     var kek = bin2str(data.advData());
     global.LOG("found: " + scan_record.getServiceUuids() + " : " + kek + " : " + foundDevice);
-    return foundDevice;
+    if (kek.indexOf("HQ") !== -1)
+        return foundDevice;
+    else return false;
 }
 
 // Called on device disconnect
@@ -70,7 +72,7 @@ function startScan(){
         device.disableBonding();
         var top = device.connect(function(client) {
             global.LOG("connected");
-            client.setMtu(512);
+            client.setMtu(256);
 
             client.startNotify(PROTOBUF_OUTPUT_UUID, function(data) {
                 var update = watchOutput.Update.deserializeBinary(data);
@@ -98,6 +100,7 @@ function startScan(){
 }
 
 function fireOnProtoSensorframe(frame) {
+    global.LOG("subscribers:" + subscribedOnProtoSensorframes.length);
     for(var i = 0; i < subscribedOnProtoSensorframes.length; i++){
         subscribedOnProtoSensorframes[i](frame);
     }

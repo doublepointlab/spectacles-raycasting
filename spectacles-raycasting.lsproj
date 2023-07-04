@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1687191997940",
+    "lastChanged": "1688484635757",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -32,10 +32,79 @@
             "collapsedList": [
                 [
                     [
+                        "BackplateClose300x300"
+                    ],
+                    [
+                        "BackplateClose300x300",
+                        "BackplateClose300x300"
+                    ],
+                    [
+                        "BackplateClose300x300",
+                        "Meshes"
+                    ],
+                    [
+                        "BackplateClose300x300",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "BackplateIcon"
+                    ],
+                    [
+                        "BackplateIcon",
+                        "BackplateIcon"
+                    ],
+                    [
+                        "BackplateIcon",
+                        "Meshes"
+                    ],
+                    [
+                        "BackplateIcon",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "BackplateMenu800x1150"
+                    ],
+                    [
+                        "BackplateMenu800x1150",
+                        "BackplateMenu800x1150"
+                    ],
+                    [
+                        "BackplateMenu800x1150",
+                        "Meshes"
+                    ],
+                    [
+                        "BackplateMenu800x1150",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
                         "Box"
                     ],
                     [
                         "CubeController"
+                    ],
+                    [
+                        "CursorTip"
+                    ],
+                    [
+                        "CursorTip",
+                        "CursorTip"
+                    ],
+                    [
+                        "CursorTip",
+                        "Meshes"
+                    ],
+                    [
+                        "CursorTip",
+                        "Meshes",
+                        "Cube"
+                    ],
+                    [
+                        "CursorTip",
+                        "Meshes",
+                        "Cylinder"
                     ],
                     [
                         "Echopark"
@@ -52,22 +121,123 @@
                         "PointerOrientation"
                     ],
                     [
+                        "RayLineMesh"
+                    ],
+                    [
                         "Sphere"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "White"
+                    ],
+                    [
+                        "Uber PBR, Blue"
+                    ],
+                    [
+                        "Uber PBR, Dark Grey"
+                    ],
+                    [
+                        "Uber PBR, Green"
+                    ],
+                    [
+                        "Uber PBR, Grey"
+                    ],
+                    [
+                        "Uber PBR, Light Black"
+                    ],
+                    [
+                        "Uber PBR, Orange"
+                    ],
+                    [
+                        "Uber PBR, Purple"
+                    ],
+                    [
+                        "Uber PBR, Red"
+                    ],
+                    [
+                        "Unlit, Ray Line"
                     ],
                     [
                         "WatchConnection"
                     ],
                     [
+                        "backplateSlider600x180"
+                    ],
+                    [
+                        "backplateSlider600x180",
+                        "Meshes"
+                    ],
+                    [
+                        "backplateSlider600x180",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "backplateSlider600x180",
+                        "backplateSlider600x180"
+                    ],
+                    [
+                        "protobuf",
                         "common_pb"
                     ],
                     [
+                        "protobuf",
                         "google-protobuf"
                     ],
                     [
+                        "protobuf",
                         "watch_input_pb"
                     ],
                     [
+                        "protobuf",
                         "watch_output_pb"
+                    ],
+                    [
+                        "slider_dot"
+                    ],
+                    [
+                        "slider_dot",
+                        "Meshes"
+                    ],
+                    [
+                        "slider_dot",
+                        "Meshes",
+                        "Slider_Dot_Cylinder"
+                    ],
+                    [
+                        "slider_dot",
+                        "slider_dot"
+                    ],
+                    [
+                        "slider_knob"
+                    ],
+                    [
+                        "slider_knob",
+                        "Meshes"
+                    ],
+                    [
+                        "slider_knob",
+                        "Meshes",
+                        "Slider_Knob_Cylinder"
+                    ],
+                    [
+                        "slider_knob",
+                        "slider_knob"
                     ]
                 ]
             ]
@@ -131,7 +301,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1688481083712595:287684"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -249,8 +419,240 @@
                 },
                 {
                     "resId": "39",
-                    "uid": "1687164470425113:2519",
+                    "uid": "1688477683119227:265138",
                     "name": "Files\/File38.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1688479108801025:274560",
+                    "name": "Files\/File39.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1688479108811317:274583",
+                    "name": "BackplateClose300x300",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1688479109292168:274845",
+                    "name": "Files\/File43.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1688479109346603:274870",
+                    "name": "BackplateIcon",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1688479109915227:275151",
+                    "name": "Files\/File47.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1688479109926270:275174",
+                    "name": "BackplateMenu800x1150",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1688479110458816:275469",
+                    "name": "Files\/File51.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1688479110477833:275492",
+                    "name": "backplateSlider600x180",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1688479110866527:275802",
+                    "name": "Files\/File55.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1688479110975361:275813",
+                    "name": "Files\/File56.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1688479110991193:275849",
+                    "name": "CursorTip",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1688479111300852:276211",
+                    "name": "Files\/File61.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1688479111458514:276234",
+                    "name": "slider_dot",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1688479111722788:276581",
+                    "name": "Files\/File65.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1688479111834577:276604",
+                    "name": "slider_knob",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1688481040793197:286683",
+                    "name": "Files\/File73.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1688481083712595:287684",
+                    "name": "Files\/File75",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1688481083840062:287753",
+                    "name": "Files\/File77.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1688481083854654:287763",
+                    "name": "Files\/File79.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1688481083865280:287773",
+                    "name": "Files\/File81.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1688481302138462:291940",
+                    "name": "Files\/File85",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1688481328480401:293552",
+                    "name": "Files\/File87",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1688481343408795:294770",
+                    "name": "Files\/File89",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1688481366626091:295992",
+                    "name": "Files\/File91",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1688481382931791:297218",
+                    "name": "Files\/File93",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1688481408606742:298468",
+                    "name": "Files\/File95",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1688481422048207:299727",
+                    "name": "Files\/File97",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1688483177197369:804884",
+                    "name": "Files\/File106.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1688483524062099:807444",
+                    "name": "Files\/File107",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -282,7 +684,43 @@
                 "2": "1528843813151434:5126",
                 "3": "1686654633499262:1002811",
                 "4": "1686655059709602:1012902",
-                "5": "1686845553592939:2481"
+                "5": "1686845553592939:2481",
+                "6": "1688479108948092:274601",
+                "7": "1688479108948710:274605",
+                "8": "1688479109506124:274888",
+                "9": "1688479109506526:274892",
+                "10": "1688479110091300:275192",
+                "11": "1688479110091678:275196",
+                "12": "1688479110646375:275510",
+                "13": "1688479110647744:275514",
+                "14": "1688479111117745:275876",
+                "15": "1688479111118202:275882",
+                "16": "1688479111119619:275898",
+                "17": "1688479111559349:276254",
+                "18": "1688479111559982:276258",
+                "19": "1688479111999331:276624",
+                "20": "1688479112000016:276628",
+                "21": "1688480265847311:278610",
+                "22": "1688480354691177:279574",
+                "23": "1688480354696098:279576",
+                "24": "1688480649168112:281621",
+                "25": "1688480745763817:282189",
+                "26": "1688480745766547:282191",
+                "27": "1688480767436199:282584",
+                "28": "1688480767438550:282586",
+                "29": "1688480807286612:283027",
+                "30": "1688480807292660:283029",
+                "31": "1688480825595383:283456",
+                "32": "1688480825600816:283458",
+                "33": "1688480833878690:283876",
+                "34": "1688480833883302:283878",
+                "35": "1688480845417411:284335",
+                "36": "1688480845420374:284337",
+                "37": "1688480853590982:284754",
+                "38": "1688480853593733:284756",
+                "39": "1688480886548481:285333",
+                "40": "1688480886553601:285335",
+                "41": "1688483138761898:803305"
             }
         },
         "LayerComponent": {
@@ -368,6 +806,262 @@
                 {
                     "k": "38",
                     "v": "Files\/File38.js"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.oprfb"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.obj"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.mesh"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.mesh"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.oprfb"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.obj"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.mesh"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.mesh"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.oprfb"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.obj"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.mesh"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.mesh"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.oprfb"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.obj"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.mesh"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.mesh"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.mesh"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.oprfb"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.obj"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.mesh"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.mesh"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.mesh"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.oprfb"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.obj"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.mesh"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.mesh"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.oprfb"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.obj"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.mesh"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.png"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.lsmat"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.png"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.png"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.lsmat"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.lsmat"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.lsmat"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.lsmat"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.lsmat"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.lsmat"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.lsmat"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.oprfb"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.oprfb"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.oprfb"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.oprfb"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.oprfb"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.oprfb"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.oprfb"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.js"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.lsmat"
                 }
             ]
         },
@@ -408,23 +1102,115 @@
                     },
                     {
                         "k": "27855",
-                        "v": "google-protobuf.js"
+                        "v": "protobuf\/google-protobuf.js"
                     },
                     {
                         "k": "27872",
-                        "v": "watch_input_pb.js"
+                        "v": "protobuf\/watch_input_pb.js"
                     },
                     {
                         "k": "27873",
-                        "v": "watch_output_pb.js"
+                        "v": "protobuf\/watch_output_pb.js"
                     },
                     {
                         "k": "27874",
-                        "v": "common_pb.js"
+                        "v": "protobuf\/common_pb.js"
                     },
                     {
-                        "k": "27875",
+                        "k": "27888",
+                        "v": "protobuf"
+                    },
+                    {
+                        "k": "27889",
                         "v": "PointerOrientation.js"
+                    },
+                    {
+                        "k": "27890",
+                        "v": "BackplateClose300x300.obj"
+                    },
+                    {
+                        "k": "27891",
+                        "v": "BackplateIcon.obj"
+                    },
+                    {
+                        "k": "27892",
+                        "v": "BackplateMenu800x1150.obj"
+                    },
+                    {
+                        "k": "27893",
+                        "v": "backplateSlider600x180.obj"
+                    },
+                    {
+                        "k": "27894",
+                        "v": "CursorTip.obj"
+                    },
+                    {
+                        "k": "27895",
+                        "v": "slider_dot.obj"
+                    },
+                    {
+                        "k": "27896",
+                        "v": "slider_knob.obj"
+                    },
+                    {
+                        "k": "27898",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "27899",
+                        "v": "Textures\/White.png"
+                    },
+                    {
+                        "k": "27901",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "27902",
+                        "v": "Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "27903",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "27904",
+                        "v": "Uber PBR, Dark Grey.lsmat"
+                    },
+                    {
+                        "k": "27906",
+                        "v": "Uber PBR, Green.lsmat"
+                    },
+                    {
+                        "k": "27907",
+                        "v": "Uber PBR, Blue.lsmat"
+                    },
+                    {
+                        "k": "27908",
+                        "v": "Uber PBR, Light Black.lsmat"
+                    },
+                    {
+                        "k": "27909",
+                        "v": "Uber PBR, Red.lsmat"
+                    },
+                    {
+                        "k": "27910",
+                        "v": "Uber PBR, Purple.lsmat"
+                    },
+                    {
+                        "k": "27911",
+                        "v": "Uber PBR, Grey.lsmat"
+                    },
+                    {
+                        "k": "27912",
+                        "v": "Uber PBR, Orange.lsmat"
+                    },
+                    {
+                        "k": "28200",
+                        "v": "RayLineMesh.js"
+                    },
+                    {
+                        "k": "28201",
+                        "v": "Unlit, Ray Line.lsmat"
                     }
                 ],
                 "hashes": [
@@ -486,7 +1272,7 @@
                     },
                     {
                         "k": "27851",
-                        "v": "140193076208157831b92d8a82ee92e0"
+                        "v": "de1bd9314539b3190fe30c6acf10f264"
                     },
                     {
                         "k": "27852",
@@ -581,57 +1367,256 @@
                         "v": "02e6fbc45ab0598b21bf3a109520ce2c"
                     },
                     {
-                        "k": "27875",
-                        "v": "c331270672e2811a65a7ff413681f60a"
+                        "k": "27888",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "27889",
+                        "v": "3d61afeea068fb05d5ec06f54db0c679"
+                    },
+                    {
+                        "k": "27890",
+                        "v": "a386904e04f095fd33c42e2a6e2ea5be"
+                    },
+                    {
+                        "k": "27891",
+                        "v": "876107316b610bea9e33b4c8dbd8edf7"
+                    },
+                    {
+                        "k": "27892",
+                        "v": "502a4f28c00c6155ca9ee1381a855a5b"
+                    },
+                    {
+                        "k": "27893",
+                        "v": "b23944fadcae9d9d891e24cbd41c8aa6"
+                    },
+                    {
+                        "k": "27894",
+                        "v": "d4c85d2859d2f710f1ca32760946fcec"
+                    },
+                    {
+                        "k": "27895",
+                        "v": "3580beafffc935fa3bd23bc55c2241a6"
+                    },
+                    {
+                        "k": "27896",
+                        "v": "18358b197c0965be059b81a4a1c2378d"
+                    },
+                    {
+                        "k": "27897",
+                        "v": "72c44ff55ad383435e0d8ed156938dea"
+                    },
+                    {
+                        "k": "27899",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "27900",
+                        "v": "0d597c588153374631ab17ed2bef0c46"
+                    },
+                    {
+                        "k": "27901",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "27902",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "27903",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "27904",
+                        "v": "1cbd336afa9552d07dd71fb244537250"
+                    },
+                    {
+                        "k": "27905",
+                        "v": "26d87d4a63d8e4d873e6c3b9358acccb"
+                    },
+                    {
+                        "k": "27906",
+                        "v": "96b2eed25d2493b8829a06c20c56270e"
+                    },
+                    {
+                        "k": "27907",
+                        "v": "ab7aed3ab39cec5d751d9a04c53da03c"
+                    },
+                    {
+                        "k": "27908",
+                        "v": "d71848760048a9067f0778124f6f2cc6"
+                    },
+                    {
+                        "k": "27909",
+                        "v": "1fef20221affd10b74cb52e3fb821e7c"
+                    },
+                    {
+                        "k": "27910",
+                        "v": "f8183fb29099e2a4ed2a419bf776da6a"
+                    },
+                    {
+                        "k": "27911",
+                        "v": "196bd5f73548f0b6a324407bfc2b07d2"
+                    },
+                    {
+                        "k": "27912",
+                        "v": "7a45766a02c9088b557ba92fe670786f"
+                    },
+                    {
+                        "k": "28200",
+                        "v": "cbe23b8a0ce5cba66f1004377fd96ee8"
+                    },
+                    {
+                        "k": "28201",
+                        "v": "a6d4c4a06e90ce438b184e78fd0a8d1d"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-06-19T19:24:24",
+                        "lastModified": "2023-07-04T18:12:15",
                         "name": "Public",
-                        "hash": "9a2f084b573141990455588b8d89e269",
+                        "hash": "26e56825f5658a3137d05b1c0fafc0eb",
                         "children": [
                             {
+                                "isFolder": "true",
+                                "lastModified": "2023-07-04T17:31:23",
+                                "name": "Textures",
+                                "hash": "bd427a99610257ce62c79273a58a13dc",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T17:31:23",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T17:31:23",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T17:31:23",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T17:30:40",
+                                        "name": "White.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T17:30:40",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
                                 "isFolder": "false",
-                                "lastModified": "2023-06-15T18:14:32",
-                                "name": "watch_input_pb.js",
-                                "hash": "a8d3f711320a48d2efa7dc4a2a9249a5",
+                                "lastModified": "2023-07-04T17:36:48",
+                                "name": "Uber PBR, Grey.lsmat",
+                                "hash": "196bd5f73548f0b6a324407bfc2b07d2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-06-15T18:33:12",
-                                "name": "watch_output_pb.js",
-                                "hash": "324d8c55b98d2ebdb9baaf99c454df2d",
+                                "lastModified": "2023-03-02T00:25:49",
+                                "name": "BackplateIcon.obj",
+                                "hash": "876107316b610bea9e33b4c8dbd8edf7",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-06-15T18:36:55",
-                                "name": "common_pb.js",
-                                "hash": "02e6fbc45ab0598b21bf3a109520ce2c",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-06-13T16:31:34",
+                                "lastModified": "2023-07-04T16:14:10",
                                 "name": "CubeController.js",
                                 "hash": "befb54213f8f1158b7126032eec41261",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-06-15T17:44:55",
-                                "name": "google-protobuf.js",
-                                "hash": "200325b09562fb5d902cb04f0bd4389d",
+                                "lastModified": "2023-07-04T17:37:02",
+                                "name": "Uber PBR, Orange.lsmat",
+                                "hash": "7a45766a02c9088b557ba92fe670786f",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-06-19T19:25:26",
+                                "lastModified": "2023-06-16T14:52:50",
+                                "name": "CursorTip.obj",
+                                "hash": "d4c85d2859d2f710f1ca32760946fcec",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-03-02T00:25:49",
+                                "name": "BackplateMenu800x1150.obj",
+                                "hash": "502a4f28c00c6155ca9ee1381a855a5b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T18:25:26",
+                                "name": "RayLineMesh.js",
+                                "hash": "cbe23b8a0ce5cba66f1004377fd96ee8",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T17:54:56",
+                                "name": "Uber PBR, Dark Grey.lsmat",
+                                "hash": "1cbd336afa9552d07dd71fb244537250",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T17:36:23",
+                                "name": "Uber PBR, Purple.lsmat",
+                                "hash": "f8183fb29099e2a4ed2a419bf776da6a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-06-16T15:09:35",
+                                "name": "slider_knob.obj",
+                                "hash": "18358b197c0965be059b81a4a1c2378d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T17:35:28",
+                                "name": "Uber PBR, Blue.lsmat",
+                                "hash": "ab7aed3ab39cec5d751d9a04c53da03c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-03-02T00:25:49",
+                                "name": "BackplateClose300x300.obj",
+                                "hash": "a386904e04f095fd33c42e2a6e2ea5be",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T16:50:20",
                                 "name": "WatchConnection.js",
-                                "hash": "140193076208157831b92d8a82ee92e0",
+                                "hash": "de1bd9314539b3190fe30c6acf10f264",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T18:12:04",
+                                "name": "Unlit, Ray Line.lsmat",
+                                "hash": "a6d4c4a06e90ce438b184e78fd0a8d1d",
                                 "children": ""
                             },
                             {
@@ -643,9 +1628,30 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2023-06-16T15:09:51",
+                                "name": "slider_dot.obj",
+                                "hash": "3580beafffc935fa3bd23bc55c2241a6",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-05-22T11:45:51",
+                                "name": "backplateSlider600x180.obj",
+                                "hash": "b23944fadcae9d9d891e24cbd41c8aa6",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2023-06-13T18:00:47",
                                 "name": "Sphere.mesh",
                                 "hash": "ffbce66d7c12d942b13208740e9d0059",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T17:36:06",
+                                "name": "Uber PBR, Red.lsmat",
+                                "hash": "1fef20221affd10b74cb52e3fb821e7c",
                                 "children": ""
                             },
                             {
@@ -657,10 +1663,67 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-06-19T19:25:22",
-                                "name": "PointerOrientation.js",
-                                "hash": "c331270672e2811a65a7ff413681f60a",
+                                "lastModified": "2023-07-04T17:35:43",
+                                "name": "Uber PBR, Light Black.lsmat",
+                                "hash": "d71848760048a9067f0778124f6f2cc6",
                                 "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T17:35:02",
+                                "name": "Uber PBR, Green.lsmat",
+                                "hash": "96b2eed25d2493b8829a06c20c56270e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-04T16:40:21",
+                                "name": "PointerOrientation.js",
+                                "hash": "3d61afeea068fb05d5ec06f54db0c679",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-07-04T16:34:41",
+                                "name": "protobuf",
+                                "hash": "986e252ed0de6816612cee10f4fc5489",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T16:34:41",
+                                        "name": "watch_input_pb.js",
+                                        "hash": "a8d3f711320a48d2efa7dc4a2a9249a5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T16:34:41",
+                                        "name": "watch_output_pb.js",
+                                        "hash": "324d8c55b98d2ebdb9baaf99c454df2d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T16:34:41",
+                                        "name": "common_pb.js",
+                                        "hash": "02e6fbc45ab0598b21bf3a109520ce2c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T16:34:41",
+                                        "name": "google-protobuf.js",
+                                        "hash": "200325b09562fb5d902cb04f0bd4389d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-04T15:46:03",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "false",
@@ -893,60 +1956,76 @@
                         }
                     },
                     {
-                        "name": "google-protobuf",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "20",
+                        "name": "protobuf",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
                         "dependency": "0",
                         "hidden": "false",
-                        "uid": "1686839036070974:16176",
-                        "fileId": "19",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
-                        "publicId": "27855",
-                        "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/google-protobuf.js",
-                        "additional": ""
-                    },
-                    {
-                        "name": "watch_input_pb",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "36",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1686839863079553:21837",
-                        "fileId": "35",
-                        "originalId": "18446744073709551615",
-                        "publicId": "27872",
-                        "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/watch_input_pb.js",
-                        "additional": ""
-                    },
-                    {
-                        "name": "watch_output_pb",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "37",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1686839863088555:21842",
-                        "fileId": "36",
-                        "originalId": "18446744073709551615",
-                        "publicId": "27873",
-                        "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/watch_output_pb.js",
-                        "additional": ""
-                    },
-                    {
-                        "name": "common_pb",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "38",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1686839863117006:21847",
-                        "fileId": "37",
-                        "originalId": "18446744073709551615",
-                        "publicId": "27874",
-                        "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/common_pb.js",
-                        "additional": ""
+                        "publicId": "27888",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "watch_input_pb",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1686839863079553:21837",
+                                "fileId": "35",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27872",
+                                "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/watch_input_pb.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "watch_output_pb",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "37",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1686839863088555:21842",
+                                "fileId": "36",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27873",
+                                "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/watch_output_pb.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "common_pb",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1686839863117006:21847",
+                                "fileId": "37",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27874",
+                                "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/common_pb.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "google-protobuf",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1686839036070974:16176",
+                                "fileId": "19",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27855",
+                                "source": "\/Users\/arttu\/Documents\/boxsphere\/Public\/google-protobuf.js",
+                                "additional": ""
+                            }
+                        ]
                     },
                     {
                         "name": "PointerOrientation",
@@ -955,22 +2034,854 @@
                         "resourceId": "39",
                         "dependency": "0",
                         "hidden": "false",
-                        "uid": "1687164470425113:2519",
+                        "uid": "1688477683119227:265138",
                         "fileId": "38",
                         "originalId": "18446744073709551615",
-                        "publicId": "27875",
-                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioXASrEQHPjaXV\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "publicId": "27889",
+                        "source": "\/Users\/arttu\/Documents\/spectacles-raycasting\/Public\/PointerOrientation.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "BackplateClose300x300",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "41",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27890",
+                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateClose300x300.obj",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Resource",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "40",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479108801025:274560",
+                                        "fileId": "39",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BackplateClose300x300",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "41",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1688479108811317:274583",
+                                "fileId": "40",
+                                "originalId": "99",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BackplateIcon",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "45",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27891",
+                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateIcon.obj",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Resource",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "42",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479109292168:274845",
+                                        "fileId": "43",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BackplateIcon",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "43",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1688479109346603:274870",
+                                "fileId": "44",
+                                "originalId": "100",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BackplateMenu800x1150",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "49",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27892",
+                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateMenu800x1150.obj",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Resource",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "44",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479109915227:275151",
+                                        "fileId": "47",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BackplateMenu800x1150",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "45",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1688479109926270:275174",
+                                "fileId": "48",
+                                "originalId": "101",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "backplateSlider600x180",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "53",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27893",
+                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/backplateSlider600x180.obj",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Resource",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "46",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479110458816:275469",
+                                        "fileId": "51",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "backplateSlider600x180",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "47",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1688479110477833:275492",
+                                "fileId": "52",
+                                "originalId": "102",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "CursorTip",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "58",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27894",
+                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/CursorTip.obj",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Cube",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "48",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479110866527:275802",
+                                        "fileId": "55",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Cylinder",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "49",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479110975361:275813",
+                                        "fileId": "56",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CursorTip",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "50",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1688479110991193:275849",
+                                "fileId": "57",
+                                "originalId": "103",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "slider_dot",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "63",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27895",
+                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/slider_dot.obj",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Slider_Dot_Cylinder",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "51",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479111300852:276211",
+                                        "fileId": "61",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "slider_dot",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "52",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1688479111458514:276234",
+                                "fileId": "62",
+                                "originalId": "104",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "slider_knob",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "67",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27896",
+                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/slider_knob.obj",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Slider_Knob_Cylinder",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "53",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479111722788:276581",
+                                        "fileId": "65",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "slider_knob",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "54",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1688479111834577:276604",
+                                "fileId": "66",
+                                "originalId": "105",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27898",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "White",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "57",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481040793197:286683",
+                                "fileId": "73",
+                                "originalId": "74",
+                                "publicId": "27899",
+                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
+                                }
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "59",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481083840062:287753",
+                                "fileId": "77",
+                                "originalId": "78",
+                                "publicId": "27901",
+                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                }
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "60",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481083854654:287763",
+                                "fileId": "79",
+                                "originalId": "80",
+                                "publicId": "27902",
+                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "af2715bddfbca2d4e72f470d285c5010"
+                                }
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "61",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481083865280:287773",
+                                "fileId": "81",
+                                "originalId": "82",
+                                "publicId": "27903",
+                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Uber PBR, Dark Grey",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "58",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481083712595:287684",
+                        "fileId": "75",
+                        "originalId": "76",
+                        "publicId": "27904",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Uber PBR, Green",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "63",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481302138462:291940",
+                        "fileId": "85",
+                        "originalId": "86",
+                        "publicId": "27906",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Uber PBR, Blue",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "64",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481328480401:293552",
+                        "fileId": "87",
+                        "originalId": "88",
+                        "publicId": "27907",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Uber PBR, Light Black",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "65",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481343408795:294770",
+                        "fileId": "89",
+                        "originalId": "90",
+                        "publicId": "27908",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Uber PBR, Red",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "66",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481366626091:295992",
+                        "fileId": "91",
+                        "originalId": "92",
+                        "publicId": "27909",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Uber PBR, Purple",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "67",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481382931791:297218",
+                        "fileId": "93",
+                        "originalId": "94",
+                        "publicId": "27910",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Uber PBR, Grey",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "68",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481408606742:298468",
+                        "fileId": "95",
+                        "originalId": "96",
+                        "publicId": "27911",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Uber PBR, Orange",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "69",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688481422048207:299727",
+                        "fileId": "97",
+                        "originalId": "98",
+                        "publicId": "27912",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "RayLineMesh",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "70",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688483177197369:804884",
+                        "fileId": "106",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28200",
+                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGxdjxrZqBJfa\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Unlit, Ray Line",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "71",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688483524062099:807444",
+                        "fileId": "107",
+                        "originalId": "108",
+                        "publicId": "28201",
+                        "source": "",
                         "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1686845553592939:2481"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
@@ -1007,9 +2918,522 @@
         },
         "ObjectPrefabController": {
             "state": {
-                "objectToInfo": ""
+                "objectToInfo": [
+                    {
+                        "k": "1688479108948092:274601",
+                        "v": {
+                            "prefab": "1688479108811317:274583",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479108806564:274568",
+                                    "v": "1688479108948092:274601"
+                                },
+                                {
+                                    "k": "1688479108808530:274570",
+                                    "v": "1688479108948710:274605"
+                                },
+                                {
+                                    "k": "1688479108809121:274572",
+                                    "v": "1688479108949136:274607"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688479109506124:274888",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688479109506124:274888"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688479109506526:274892"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688479109506765:274894"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688479110091300:275192",
+                        "v": {
+                            "prefab": "1688479109926270:275174",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109921714:275159",
+                                    "v": "1688479110091300:275192"
+                                },
+                                {
+                                    "k": "1688479109923788:275161",
+                                    "v": "1688479110091678:275196"
+                                },
+                                {
+                                    "k": "1688479109924526:275163",
+                                    "v": "1688479110091876:275198"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688479110646375:275510",
+                        "v": {
+                            "prefab": "1688479110477833:275492",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479110471777:275477",
+                                    "v": "1688479110646375:275510"
+                                },
+                                {
+                                    "k": "1688479110474343:275479",
+                                    "v": "1688479110647744:275514"
+                                },
+                                {
+                                    "k": "1688479110474756:275481",
+                                    "v": "1688479110648191:275516"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688479111117745:275876",
+                        "v": {
+                            "prefab": "1688479110991193:275849",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479110980440:275821",
+                                    "v": "1688479111117745:275876"
+                                },
+                                {
+                                    "k": "1688479110982158:275823",
+                                    "v": "1688479111118202:275882"
+                                },
+                                {
+                                    "k": "1688479110985671:275825",
+                                    "v": "1688479111118433:275884"
+                                },
+                                {
+                                    "k": "1688479110988825:275836",
+                                    "v": "1688479111119619:275898"
+                                },
+                                {
+                                    "k": "1688479110989372:275838",
+                                    "v": "1688479111119849:275900"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688479111559349:276254",
+                        "v": {
+                            "prefab": "1688479111458514:276234",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479111448397:276219",
+                                    "v": "1688479111559349:276254"
+                                },
+                                {
+                                    "k": "1688479111450530:276221",
+                                    "v": "1688479111559982:276258"
+                                },
+                                {
+                                    "k": "1688479111451108:276223",
+                                    "v": "1688479111560349:276260"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688479111999331:276624",
+                        "v": {
+                            "prefab": "1688479111834577:276604",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479111824091:276589",
+                                    "v": "1688479111999331:276624"
+                                },
+                                {
+                                    "k": "1688479111826082:276591",
+                                    "v": "1688479112000016:276628"
+                                },
+                                {
+                                    "k": "1688479111826491:276593",
+                                    "v": "1688479112000948:276630"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480354691177:279574",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480354691177:279574"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480354696098:279576"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480354696595:279578"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480745763817:282189",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480745763817:282189"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480745766547:282191"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480745766823:282193"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480767436199:282584",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480767436199:282584"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480767438550:282586"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480767438817:282588"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480807286612:283027",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480807286612:283027"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480807292660:283029"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480807293108:283031"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480825595383:283456",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480825595383:283456"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480825600816:283458"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480825601188:283460"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480833878690:283876",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480833878690:283876"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480833883302:283878"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480833883804:283880"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480845417411:284335",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480845417411:284335"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480845420374:284337"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480845420659:284339"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480853590982:284754",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480853590982:284754"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480853593733:284756"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480853594259:284758"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1688480886548481:285333",
+                        "v": {
+                            "prefab": "1688479109346603:274870",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1688479109340977:274855",
+                                    "v": "1688480886548481:285333"
+                                },
+                                {
+                                    "k": "1688479109343925:274857",
+                                    "v": "1688480886553601:285335"
+                                },
+                                {
+                                    "k": "1688479109344725:274859",
+                                    "v": "1688480886554004:285337"
+                                }
+                            ]
+                        }
+                    }
+                ]
             },
-            "importInfo": ""
+            "importInfo": [
+                {
+                    "k": "1688479108811317:274583",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1688479108806564:274568"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1688479108808530:274570"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479108809121:274572"
+                        }
+                    ]
+                },
+                {
+                    "k": "1688479109346603:274870",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1688479109340977:274855"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1688479109343925:274857"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479109344725:274859"
+                        }
+                    ]
+                },
+                {
+                    "k": "1688479109926270:275174",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1688479109921714:275159"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1688479109923788:275161"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479109924526:275163"
+                        }
+                    ]
+                },
+                {
+                    "k": "1688479110477833:275492",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1688479110471777:275477"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1688479110474343:275479"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479110474756:275481"
+                        }
+                    ]
+                },
+                {
+                    "k": "1688479110991193:275849",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1688479110980440:275821"
+                        },
+                        {
+                            "k": [
+                                "Cube.001_Cube.003"
+                            ],
+                            "v": "1688479110982158:275823"
+                        },
+                        {
+                            "k": [
+                                "Cube.001_Cube.003",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479110985671:275825"
+                        },
+                        {
+                            "k": [
+                                "Cylinder"
+                            ],
+                            "v": "1688479110988825:275836"
+                        },
+                        {
+                            "k": [
+                                "Cylinder",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479110989372:275838"
+                        }
+                    ]
+                },
+                {
+                    "k": "1688479111458514:276234",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1688479111448397:276219"
+                        },
+                        {
+                            "k": [
+                                "Slider_Dot_Cylinder.006"
+                            ],
+                            "v": "1688479111450530:276221"
+                        },
+                        {
+                            "k": [
+                                "Slider_Dot_Cylinder.006",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479111451108:276223"
+                        }
+                    ]
+                },
+                {
+                    "k": "1688479111834577:276604",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1688479111824091:276589"
+                        },
+                        {
+                            "k": [
+                                "Slider_Knob_Cylinder.007"
+                            ],
+                            "v": "1688479111826082:276591"
+                        },
+                        {
+                            "k": [
+                                "Slider_Knob_Cylinder.007",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1688479111826491:276593"
+                        }
+                    ]
+                }
+            ]
         },
         "ObjectTracking3DController": {
             "hand_tracking_mode": "0"
@@ -1127,11 +3551,384 @@
                         "uncompressed_file": "16",
                         "compressed_files": ""
                     }
+                },
+                {
+                    "k": "1688479108801025:274560",
+                    "v": {
+                        "infos": {
+                            "originalSize": "432973",
+                            "compressedSize": "432973",
+                            "originalRAM": "1319160",
+                            "compressedRAM": "1319160",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "42",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1688479109292168:274845",
+                    "v": {
+                        "infos": {
+                            "originalSize": "426667",
+                            "compressedSize": "426667",
+                            "originalRAM": "1318344",
+                            "compressedRAM": "1318344",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "46",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1688479109915227:275151",
+                    "v": {
+                        "infos": {
+                            "originalSize": "443204",
+                            "compressedSize": "443204",
+                            "originalRAM": "1329144",
+                            "compressedRAM": "1329144",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "50",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1688479110458816:275469",
+                    "v": {
+                        "infos": {
+                            "originalSize": "437864",
+                            "compressedSize": "437864",
+                            "originalRAM": "1322496",
+                            "compressedRAM": "1322496",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "54",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1688479110866527:275802",
+                    "v": {
+                        "infos": {
+                            "originalSize": "104219",
+                            "compressedSize": "104219",
+                            "originalRAM": "235008",
+                            "compressedRAM": "235008",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "59",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1688479110975361:275813",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1750",
+                            "compressedSize": "1750",
+                            "originalRAM": "6528",
+                            "compressedRAM": "6528",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "60",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1688479111300852:276211",
+                    "v": {
+                        "infos": {
+                            "originalSize": "33474",
+                            "compressedSize": "33474",
+                            "originalRAM": "66168",
+                            "compressedRAM": "66168",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "64",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1688479111722788:276581",
+                    "v": {
+                        "infos": {
+                            "originalSize": "36671",
+                            "compressedSize": "36671",
+                            "originalRAM": "66168",
+                            "compressedRAM": "66168",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "68",
+                        "compressed_files": ""
+                    }
                 }
             ]
         },
         "AssetImportController": {
-            "itemUidToID": ""
+            "itemUidToID": [
+                {
+                    "k": "1688480551708020:280683",
+                    "v": "5xSM6HqbxcAukkjtrILxgl"
+                }
+            ]
         }
     },
     "templateName": "Empty Project",
