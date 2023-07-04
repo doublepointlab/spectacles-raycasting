@@ -10,7 +10,6 @@ function onProtoSensorframe(frame) {
 
     grav = new vec3(pGrav.getX(), pGrav.getY(), pGrav.getZ());
     gyro = new vec3(pGyro.getX(), pGyro.getY(), pGyro.getZ());
-    global.LOG("kek " + gyro);
     updateOnSensors();
 
 }
@@ -36,7 +35,7 @@ function updateOnSensors() {
     var rotation = gyro.dot(grav) / gravLength;
     phi += rotation * 0.01;
     var sin = -down.dot(grav) / gravLength;
-    var cos = Math.sqrt(1 - cos*cos);
+    var cos = Math.sqrt(1 - sin*sin);
 
     var theta = Math.asin(sin);
     

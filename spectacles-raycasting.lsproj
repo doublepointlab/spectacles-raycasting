@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1688484635757",
+    "lastChanged": "1688490323406",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -121,7 +121,7 @@
                         "PointerOrientation"
                     ],
                     [
-                        "RayLineMesh"
+                        "RayCaster"
                     ],
                     [
                         "Sphere"
@@ -273,13 +273,13 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Pair 2.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Dance.jpg",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Body.webm",
                 "front_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
@@ -301,7 +301,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1688481083712595:287684"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -642,17 +642,17 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "70",
-                    "uid": "1688483177197369:804884",
-                    "name": "Files\/File106.js",
+                    "resId": "71",
+                    "uid": "1688483524062099:807444",
+                    "name": "Files\/File107",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
                 },
                 {
-                    "resId": "71",
-                    "uid": "1688483524062099:807444",
-                    "name": "Files\/File107",
+                    "resId": "72",
+                    "uid": "1688484760479251:837892",
+                    "name": "Files\/File109.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -1052,16 +1052,16 @@
                     "v": "Files\/File105.oprfb"
                 },
                 {
-                    "k": "106",
-                    "v": "Files\/File106.js"
-                },
-                {
                     "k": "107",
                     "v": "Files\/File107"
                 },
                 {
                     "k": "108",
                     "v": "Files\/File108.lsmat"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.js"
                 }
             ]
         },
@@ -1205,12 +1205,12 @@
                         "v": "Uber PBR, Orange.lsmat"
                     },
                     {
-                        "k": "28200",
-                        "v": "RayLineMesh.js"
-                    },
-                    {
                         "k": "28201",
                         "v": "Unlit, Ray Line.lsmat"
+                    },
+                    {
+                        "k": "28202",
+                        "v": "RayCaster.js"
                     }
                 ],
                 "hashes": [
@@ -1372,7 +1372,7 @@
                     },
                     {
                         "k": "27889",
-                        "v": "3d61afeea068fb05d5ec06f54db0c679"
+                        "v": "c970b2806055f58ddbf9ecb0e1e1d362"
                     },
                     {
                         "k": "27890",
@@ -1469,14 +1469,18 @@
                     {
                         "k": "28201",
                         "v": "a6d4c4a06e90ce438b184e78fd0a8d1d"
+                    },
+                    {
+                        "k": "28202",
+                        "v": "0f56ea921c37d3b72a2fb38f26c6334b"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-07-04T18:12:15",
+                        "lastModified": "2023-07-04T19:19:34",
                         "name": "Public",
-                        "hash": "26e56825f5658a3137d05b1c0fafc0eb",
+                        "hash": "d751c8bf77d59bc1154742cfc95ae70e",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1523,6 +1527,13 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2023-07-04T19:53:51",
+                                "name": "RayCaster.js",
+                                "hash": "0f56ea921c37d3b72a2fb38f26c6334b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2023-07-04T17:36:48",
                                 "name": "Uber PBR, Grey.lsmat",
                                 "hash": "196bd5f73548f0b6a324407bfc2b07d2",
@@ -1561,13 +1572,6 @@
                                 "lastModified": "2023-03-02T00:25:49",
                                 "name": "BackplateMenu800x1150.obj",
                                 "hash": "502a4f28c00c6155ca9ee1381a855a5b",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-04T18:25:26",
-                                "name": "RayLineMesh.js",
-                                "hash": "cbe23b8a0ce5cba66f1004377fd96ee8",
                                 "children": ""
                             },
                             {
@@ -1677,9 +1681,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-07-04T16:40:21",
+                                "lastModified": "2023-07-04T19:01:43",
                                 "name": "PointerOrientation.js",
-                                "hash": "3d61afeea068fb05d5ec06f54db0c679",
+                                "hash": "c970b2806055f58ddbf9ecb0e1e1d362",
                                 "children": ""
                             },
                             {
@@ -2850,20 +2854,6 @@
                         "additional": ""
                     },
                     {
-                        "name": "RayLineMesh",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "70",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688483177197369:804884",
-                        "fileId": "106",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28200",
-                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGxdjxrZqBJfa\/\/system\/\/emergencyFiles\/emergencyJs.js",
-                        "additional": ""
-                    },
-                    {
                         "name": "Unlit, Ray Line",
                         "type": "2",
                         "subtype": "1",
@@ -2876,12 +2866,30 @@
                         "publicId": "28201",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "RayCaster",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "72",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1688484760479251:837892",
+                        "fileId": "109",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28202",
+                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGxdjxrZqBJfa\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1688479108948092:274601"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",

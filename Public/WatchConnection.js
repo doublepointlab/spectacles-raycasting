@@ -100,7 +100,6 @@ function startScan(){
 }
 
 function fireOnProtoSensorframe(frame) {
-    global.LOG("subscribers:" + subscribedOnProtoSensorframes.length);
     for(var i = 0; i < subscribedOnProtoSensorframes.length; i++){
         subscribedOnProtoSensorframes[i](frame);
     }
