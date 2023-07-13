@@ -4,11 +4,19 @@
 
 var transform = script.getSceneObject().getTransform();
 
+var active = false;
+
 function onHit() {
-    transform.setLocalScale(new vec3(1.2, 1.2, 1.2));
+    if (!active)
+        return;
+
+    transform.setLocalScale(new vec3(1.1, 1.1, 1.1));
 }
 
 function onMiss() {
+    if (!active)
+        return;
+
     transform.setLocalScale(new vec3(1.0, 1.0, 1.0));
 }
 
@@ -20,9 +28,9 @@ function onTap() {
         for (var i = 0; i < script.apps.getChildrenCount(); i++) {
             var child = script.apps.getChild(i);
             var scripts = child.getComponents("ScriptComponent");
-            for (var i = 0; i < scripts.length; i++) {
-                if (scripts[i].api && scripts[i].api.deactivate) {
-                    scripts[i].api.deactivate();
+            for (var j = 0; j < scripts.length; j++) {
+                if (scripts[j].api && scripts[j].api.deactivate) {
+                    scripts[j].api.deactivate();
                 }
             }
         }
@@ -40,12 +48,15 @@ function onTap() {
     }
 
     // deactivate self
-    //global.tweenManager.startTween(script.getSceneObject(), "hide");
+    global.tweenManager.startTween(script.getSceneObject(), "hide");
+    active = false;
 
 }
 
 function activate() {
-    //global.tweenManager.startTween(script.getSceneObject(), "unhide");
+    active = true;
+    global.LOG("activating close button");
+    global.tweenManager.startTween(script.getSceneObject(), "unhide");
 }
 
 script.api.onHit = onHit;

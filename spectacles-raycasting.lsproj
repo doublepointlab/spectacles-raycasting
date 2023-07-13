@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1689251432933",
+    "lastChanged": "1689254095784",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -44,6 +44,10 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Images",
+                        "icn_close"
                     ],
                     [
                         "Images",
@@ -315,6 +319,9 @@
                         "watch_output_pb"
                     ],
                     [
+                        "Simple PBR"
+                    ],
+                    [
                         "Sphere"
                     ],
                     [
@@ -535,7 +542,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1689253179258716:1762605"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -1178,6 +1185,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1689252977725549:1748585",
+                    "name": "Files\/File232.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1689253179258716:1762605",
+                    "name": "Files\/File242",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1245,7 +1268,14 @@
                 "41": "1689239719898603:844229",
                 "42": "1689239719900069:844231",
                 "43": "1689241093560100:948097",
-                "44": "1689241119782094:948109"
+                "44": "1689241119782094:948109",
+                "45": "1689252824899273:1744574",
+                "46": "1689253382332722:1776047",
+                "47": "1689253384097925:1780035",
+                "48": "1689253385726501:1784347",
+                "49": "1689253388150240:1789013",
+                "50": "1689253390602502:1794023",
+                "51": "1689253431871018:1799815"
             }
         },
         "LayerComponent": {
@@ -1827,6 +1857,30 @@
                 {
                     "k": "231",
                     "v": "Files\/File231.pvr"
+                },
+                {
+                    "k": "232",
+                    "v": "Files\/File232.pvr"
+                },
+                {
+                    "k": "233",
+                    "v": "Files\/File233.png"
+                },
+                {
+                    "k": "234",
+                    "v": "Files\/File234.png"
+                },
+                {
+                    "k": "235",
+                    "v": "Files\/File235.pvr"
+                },
+                {
+                    "k": "242",
+                    "v": "Files\/File242"
+                },
+                {
+                    "k": "243",
+                    "v": "Files\/File243.lsmat"
                 }
             ]
         },
@@ -2140,6 +2194,14 @@
                     {
                         "k": "28336",
                         "v": "Scripts\/AppBehaviour.js"
+                    },
+                    {
+                        "k": "28337",
+                        "v": "Images\/icn_close.png"
+                    },
+                    {
+                        "k": "28341",
+                        "v": "Simple PBR.lsmat"
                     }
                 ],
                 "hashes": [
@@ -2685,7 +2747,7 @@
                     },
                     {
                         "k": "28286",
-                        "v": "c8f11c9de03cce5f93b80ebb8ba4c238"
+                        "v": "ea7582e0caca73a75909a5877ac4db36"
                     },
                     {
                         "k": "28287",
@@ -2833,20 +2895,47 @@
                     },
                     {
                         "k": "28335",
-                        "v": "34745fbeac1239f158bb09f0f48c6577"
+                        "v": "1b087071ed5ef905e4a0ac13b83a6fc7"
                     },
                     {
                         "k": "28336",
                         "v": "8b1c81ee263765debaa3a338bef84d83"
+                    },
+                    {
+                        "k": "28337",
+                        "v": "e8bdc65b71ae70daa346b435ae0ff545"
+                    },
+                    {
+                        "k": "28338",
+                        "v": "43867547cade9f9570bee875108c37a6"
+                    },
+                    {
+                        "k": "28339",
+                        "v": "891607fa428a9a5d35a7b56e68f13312"
+                    },
+                    {
+                        "k": "28340",
+                        "v": "38233e54bf68f94fe1493f08264be5e1"
+                    },
+                    {
+                        "k": "28341",
+                        "v": "887bedd613030fd17b60e9d36966e8e7"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-07-13T12:30:35",
+                        "lastModified": "2023-07-13T15:59:39",
                         "name": "Public",
-                        "hash": "7793411dffaa9c88c2be0f9c90a64b17",
+                        "hash": "2f3f9c7fbe5aa2129f0e79be0a63deb1",
                         "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-13T15:59:39",
+                                "name": "Simple PBR.lsmat",
+                                "hash": "887bedd613030fd17b60e9d36966e8e7",
+                                "children": ""
+                            },
                             {
                                 "isFolder": "true",
                                 "lastModified": "2023-07-04T17:31:23",
@@ -3138,9 +3227,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2023-07-13T12:27:34",
+                                "lastModified": "2023-07-13T16:01:17",
                                 "name": "Materials",
-                                "hash": "202024dce6d682f499d48d99eae57ac2",
+                                "hash": "6a3b27d9a0ff0df7889880e8f109e619",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -3158,9 +3247,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:05:38",
+                                        "lastModified": "2023-07-13T16:01:05",
                                         "name": "Uber PBR, Dark Grey.lsmat",
-                                        "hash": "c8f11c9de03cce5f93b80ebb8ba4c238",
+                                        "hash": "ea7582e0caca73a75909a5877ac4db36",
                                         "children": ""
                                     },
                                     {
@@ -3216,9 +3305,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2023-07-13T12:31:28",
+                                "lastModified": "2023-07-13T15:56:17",
                                 "name": "Images",
-                                "hash": "008bdcdcb77039c180a842480b4a651d",
+                                "hash": "685baf30542ce280b2973d55bde43179",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -3239,6 +3328,13 @@
                                         "lastModified": "2023-05-22T11:45:50",
                                         "name": "notes.png",
                                         "hash": "063f8393ace1286dfa90a68bc8910b3a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-22T11:45:51",
+                                        "name": "icn_close.png",
+                                        "hash": "e8bdc65b71ae70daa346b435ae0ff545",
                                         "children": ""
                                     },
                                     {
@@ -3346,7 +3442,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2023-07-13T12:50:08",
                                 "name": "Scripts",
-                                "hash": "f373441a17cad11895a64fd6a3f03974",
+                                "hash": "eda204a2771411fc271bc223d7dc73c5",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -3442,9 +3538,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T15:29:48",
+                                        "lastModified": "2023-07-13T15:46:25",
                                         "name": "CloseAppButtonBehaviour.js",
-                                        "hash": "34745fbeac1239f158bb09f0f48c6577",
+                                        "hash": "1b087071ed5ef905e4a0ac13b83a6fc7",
                                         "children": ""
                                     },
                                     {
@@ -5303,8 +5399,38 @@
                                 "additional": {
                                     "originHash": "192922b2d1362ddb31915460c2003acb"
                                 }
+                            },
+                            {
+                                "name": "icn_close",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "140",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689252977725549:1748585",
+                                "fileId": "232",
+                                "originalId": "233",
+                                "publicId": "28337",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Icons\/icn_close.png",
+                                "additional": {
+                                    "originHash": "e8bdc65b71ae70daa346b435ae0ff545"
+                                }
                             }
                         ]
+                    },
+                    {
+                        "name": "Simple PBR",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "144",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1689253179258716:1762605",
+                        "fileId": "242",
+                        "originalId": "243",
+                        "publicId": "28341",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
@@ -5312,7 +5438,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1688480265847311:278610"
+                    "1689237786253925:696251"
                 ]
             }
         },
@@ -6685,6 +6811,34 @@
                                     "settings_hash": "2049"
                                 },
                                 "v": "231"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689252977725549:1748585",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5227",
+                            "compressedSize": "2969",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "131072",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "234",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e8bdc65b71ae70daa346b435ae0ff545",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "235"
                             }
                         ]
                     }
