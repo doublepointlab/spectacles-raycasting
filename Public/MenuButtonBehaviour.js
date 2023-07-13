@@ -15,6 +15,8 @@ function onTap() {
     global.LOG("tap");
     global.tweenManager.startTween(script.getSceneObject(), "rotate_x");
 
+    //script.getSceneObject().getParent().getParent().getParent().getFirstComponent("ScriptComponent").api.disable();
+
 }
 
 script.api.onHit = onHit;
