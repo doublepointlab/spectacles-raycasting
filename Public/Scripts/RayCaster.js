@@ -15,7 +15,7 @@ function onProtoSensorframe(frame) {
 }
 
 function onGesture(gesture) {
-    if (hitObject !== null) {
+    if (hitObject !== null && gesture == 1) {
         hitObject.getFirstComponent("ScriptComponent").api.onTap();
     }
 }

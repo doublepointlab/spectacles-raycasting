@@ -48,7 +48,7 @@ var scanPredicate = function(device, rssi, scan_record) {
     var data = manufacturerDatas[manufacturerDatas.length - 1];
     var kek = bin2str(data.advData());
     global.LOG("found: " + scan_record.getServiceUuids() + " : " + kek + " : " + foundDevice);
-    if (kek.indexOf("YAEV") !== -1)
+    if (kek.indexOf("HQ7Y") !== -1)
         return foundDevice;
     else return false;
 }
@@ -84,7 +84,8 @@ function startScan(){
             })
 
             client.startNotify(GESTURE_UUID, function(data) {
-                fireOnGesture(data[0]);
+                if (data[0] > 0)
+                    fireOnGesture(data[0]);
             });
 
         }, disconnectedCallback)

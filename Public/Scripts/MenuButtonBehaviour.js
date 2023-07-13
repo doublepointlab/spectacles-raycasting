@@ -1,4 +1,5 @@
 // -----JS CODE-----
+// @input SceneObject targetSceneObject
 
 var transform = script.getSceneObject().getTransform();
 
@@ -15,8 +16,14 @@ function onTap() {
     global.LOG("tap");
     global.tweenManager.startTween(script.getSceneObject(), "rotate_x");
 
-    //script.getSceneObject().getParent().getParent().getParent().getFirstComponent("ScriptComponent").api.disable();
-
+    if (script.targetSceneObject) {
+        var scripts = script.targetSceneObject.getComponents("ScriptComponent");
+        for (var i = 0; i < scripts.length; i++) {
+            if (scripts[i].api && scripts[i].api.activate) {
+                scripts[i].api.activate();
+            }
+        }
+    }
 }
 
 script.api.onHit = onHit;

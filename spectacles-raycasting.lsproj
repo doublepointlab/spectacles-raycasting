@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1689240527389",
+    "lastChanged": "1689244427071",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -46,7 +46,32 @@
                         "Specular"
                     ],
                     [
-                        "Materials"
+                        "Images",
+                        "maps"
+                    ],
+                    [
+                        "Images",
+                        "messages"
+                    ],
+                    [
+                        "Images",
+                        "music"
+                    ],
+                    [
+                        "Images",
+                        "notes"
+                    ],
+                    [
+                        "Images",
+                        "phone"
+                    ],
+                    [
+                        "Images",
+                        "trending"
+                    ],
+                    [
+                        "Images",
+                        "weather"
                     ],
                     [
                         "Materials",
@@ -234,7 +259,12 @@
                         "slider_knob"
                     ],
                     [
-                        "Scripts"
+                        "Scripts",
+                        "AppBehaviour"
+                    ],
+                    [
+                        "Scripts",
+                        "CloseAppButtonBehaviour"
                     ],
                     [
                         "Scripts",
@@ -1075,6 +1105,78 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "131",
+                    "uid": "1689240683189055:923824",
+                    "name": "Files\/File202.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1689240683483075:923831",
+                    "name": "Files\/File205.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "133",
+                    "uid": "1689240683712693:923840",
+                    "name": "Files\/File208.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1689240684275469:925082",
+                    "name": "Files\/File211.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1689240685158041:926334",
+                    "name": "Files\/File214.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "136",
+                    "uid": "1689240686787433:928841",
+                    "name": "Files\/File217.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1689240688100509:930103",
+                    "name": "Files\/File220.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1689240871321617:933978",
+                    "name": "Files\/File224.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1689241801289656:988375",
+                    "name": "Files\/File230.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1140,7 +1242,9 @@
                 "39": "1689237786253925:696251",
                 "40": "1689237786256867:696253",
                 "41": "1689239719898603:844229",
-                "42": "1689239719900069:844231"
+                "42": "1689239719900069:844231",
+                "43": "1689241093560100:948097",
+                "44": "1689241119782094:948109"
             }
         },
         "LayerComponent": {
@@ -1602,6 +1706,126 @@
                 {
                     "k": "140",
                     "v": "Files\/File140.js"
+                },
+                {
+                    "k": "202",
+                    "v": "Files\/File202.pvr"
+                },
+                {
+                    "k": "203",
+                    "v": "Files\/File203.png"
+                },
+                {
+                    "k": "204",
+                    "v": "Files\/File204.png"
+                },
+                {
+                    "k": "205",
+                    "v": "Files\/File205.pvr"
+                },
+                {
+                    "k": "206",
+                    "v": "Files\/File206.png"
+                },
+                {
+                    "k": "207",
+                    "v": "Files\/File207.png"
+                },
+                {
+                    "k": "208",
+                    "v": "Files\/File208.pvr"
+                },
+                {
+                    "k": "209",
+                    "v": "Files\/File209.png"
+                },
+                {
+                    "k": "210",
+                    "v": "Files\/File210.png"
+                },
+                {
+                    "k": "211",
+                    "v": "Files\/File211.pvr"
+                },
+                {
+                    "k": "212",
+                    "v": "Files\/File212.png"
+                },
+                {
+                    "k": "213",
+                    "v": "Files\/File213.png"
+                },
+                {
+                    "k": "214",
+                    "v": "Files\/File214.pvr"
+                },
+                {
+                    "k": "215",
+                    "v": "Files\/File215.png"
+                },
+                {
+                    "k": "216",
+                    "v": "Files\/File216.png"
+                },
+                {
+                    "k": "217",
+                    "v": "Files\/File217.pvr"
+                },
+                {
+                    "k": "218",
+                    "v": "Files\/File218.png"
+                },
+                {
+                    "k": "219",
+                    "v": "Files\/File219.png"
+                },
+                {
+                    "k": "220",
+                    "v": "Files\/File220.pvr"
+                },
+                {
+                    "k": "221",
+                    "v": "Files\/File221.png"
+                },
+                {
+                    "k": "222",
+                    "v": "Files\/File222.png"
+                },
+                {
+                    "k": "223",
+                    "v": "Files\/File223.pvr"
+                },
+                {
+                    "k": "224",
+                    "v": "Files\/File224.js"
+                },
+                {
+                    "k": "225",
+                    "v": "Files\/File225.pvr"
+                },
+                {
+                    "k": "226",
+                    "v": "Files\/File226.pvr"
+                },
+                {
+                    "k": "227",
+                    "v": "Files\/File227.pvr"
+                },
+                {
+                    "k": "228",
+                    "v": "Files\/File228.pvr"
+                },
+                {
+                    "k": "229",
+                    "v": "Files\/File229.pvr"
+                },
+                {
+                    "k": "230",
+                    "v": "Files\/File230.js"
+                },
+                {
+                    "k": "231",
+                    "v": "Files\/File231.pvr"
                 }
             ]
         },
@@ -1875,6 +2099,46 @@
                     {
                         "k": "28326",
                         "v": "Models"
+                    },
+                    {
+                        "k": "28327",
+                        "v": "Images"
+                    },
+                    {
+                        "k": "28328",
+                        "v": "Images\/maps.png"
+                    },
+                    {
+                        "k": "28329",
+                        "v": "Images\/messages.png"
+                    },
+                    {
+                        "k": "28330",
+                        "v": "Images\/music.png"
+                    },
+                    {
+                        "k": "28331",
+                        "v": "Images\/notes.png"
+                    },
+                    {
+                        "k": "28332",
+                        "v": "Images\/phone.png"
+                    },
+                    {
+                        "k": "28333",
+                        "v": "Images\/trending.png"
+                    },
+                    {
+                        "k": "28334",
+                        "v": "Images\/weather.png"
+                    },
+                    {
+                        "k": "28335",
+                        "v": "Scripts\/CloseAppButtonBehaviour.js"
+                    },
+                    {
+                        "k": "28336",
+                        "v": "Scripts\/AppBehaviour.js"
                     }
                 ],
                 "hashes": [
@@ -2356,11 +2620,11 @@
                     },
                     {
                         "k": "28267",
-                        "v": "641b2d3013ee7810d03ed88c14cb60b7"
+                        "v": "4043b9356a4a24cf0dcf40ad1d6a9082"
                     },
                     {
                         "k": "28268",
-                        "v": "fdc5f2cd7353b47cd75b8f79a3dc0fc2"
+                        "v": "123fffbb0d5cda0527be3531b84e4dd2"
                     },
                     {
                         "k": "28269",
@@ -2372,7 +2636,7 @@
                     },
                     {
                         "k": "28271",
-                        "v": "7d153e9eb97bee47f59f95dfe49d72e1"
+                        "v": "96512415469165bad3e59343dde9a39a"
                     },
                     {
                         "k": "28273",
@@ -2537,14 +2801,50 @@
                     {
                         "k": "28324",
                         "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "28328",
+                        "v": "2fbbde2509b11a3d36e22fc20a8f7cf3"
+                    },
+                    {
+                        "k": "28329",
+                        "v": "7517d7e48ef09609694362fc5d6e04b5"
+                    },
+                    {
+                        "k": "28330",
+                        "v": "48e70248c14666ef8d09682c73cf281d"
+                    },
+                    {
+                        "k": "28331",
+                        "v": "063f8393ace1286dfa90a68bc8910b3a"
+                    },
+                    {
+                        "k": "28332",
+                        "v": "833b25f2981efb83bc727337b8c5d8b6"
+                    },
+                    {
+                        "k": "28333",
+                        "v": "f638a7608907eae467c612b63a18b28e"
+                    },
+                    {
+                        "k": "28334",
+                        "v": "192922b2d1362ddb31915460c2003acb"
+                    },
+                    {
+                        "k": "28335",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "28336",
+                        "v": "4d15ce032f0164c7f0cdc5eed2dbc0e9"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-07-13T12:28:35",
+                        "lastModified": "2023-07-13T12:30:35",
                         "name": "Public",
-                        "hash": "664ad6797203ce43770cee1e3c798c30",
+                        "hash": "4ba437e1282d3edc09b82c904975b000",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -2915,6 +3215,70 @@
                             },
                             {
                                 "isFolder": "true",
+                                "lastModified": "2023-07-13T12:31:28",
+                                "name": "Images",
+                                "hash": "008bdcdcb77039c180a842480b4a651d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-22T11:45:50",
+                                        "name": "music.png",
+                                        "hash": "48e70248c14666ef8d09682c73cf281d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-22T11:45:51",
+                                        "name": "weather.png",
+                                        "hash": "192922b2d1362ddb31915460c2003acb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-22T11:45:50",
+                                        "name": "notes.png",
+                                        "hash": "063f8393ace1286dfa90a68bc8910b3a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-22T11:45:50",
+                                        "name": "phone.png",
+                                        "hash": "833b25f2981efb83bc727337b8c5d8b6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-25T16:22:04",
+                                        "name": "trending.png",
+                                        "hash": "f638a7608907eae467c612b63a18b28e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-22T11:45:50",
+                                        "name": "messages.png",
+                                        "hash": "7517d7e48ef09609694362fc5d6e04b5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-05-22T11:45:50",
+                                        "name": "maps.png",
+                                        "hash": "2fbbde2509b11a3d36e22fc20a8f7cf3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:30:31",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
                                 "lastModified": "2023-07-13T12:28:35",
                                 "name": "Models",
                                 "hash": "c45e56c28325ea2f03f0122d25db6105",
@@ -2979,15 +3343,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2023-07-13T12:25:41",
+                                "lastModified": "2023-07-13T12:50:08",
                                 "name": "Scripts",
-                                "hash": "8beae6d1b5f3760285f73c75807a9936",
+                                "hash": "70db97f9eaf94556de2b6c1b9650b0fc",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:10:40",
+                                        "lastModified": "2023-07-13T13:00:54",
                                         "name": "RayCaster.js",
-                                        "hash": "fdc5f2cd7353b47cd75b8f79a3dc0fc2",
+                                        "hash": "123fffbb0d5cda0527be3531b84e4dd2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T13:29:11",
+                                        "name": "AppBehaviour.js",
+                                        "hash": "4d15ce032f0164c7f0cdc5eed2dbc0e9",
                                         "children": ""
                                     },
                                     {
@@ -3006,16 +3377,16 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T11:41:39",
+                                        "lastModified": "2023-07-13T13:28:24",
                                         "name": "MenuButtonBehaviour.js",
-                                        "hash": "641b2d3013ee7810d03ed88c14cb60b7",
+                                        "hash": "4043b9356a4a24cf0dcf40ad1d6a9082",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:22:17",
+                                        "lastModified": "2023-07-13T12:59:58",
                                         "name": "WatchConnection.js",
-                                        "hash": "7d153e9eb97bee47f59f95dfe49d72e1",
+                                        "hash": "96512415469165bad3e59343dde9a39a",
                                         "children": ""
                                     },
                                     {
@@ -3067,6 +3438,13 @@
                                                 "children": ""
                                             }
                                         ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-09-06T00:41:01",
+                                        "name": "CloseAppButtonBehaviour.js",
+                                        "hash": "59361291686fd7cebf3981836238abbb",
+                                        "children": ""
                                     },
                                     {
                                         "isFolder": "false",
@@ -3994,6 +4372,34 @@
                                 "publicId": "28270",
                                 "source": "\/Users\/arttu\/Documents\/spectacles-raycasting\/Public\/PointerOrientation.js",
                                 "additional": ""
+                            },
+                            {
+                                "name": "CloseAppButtonBehaviour",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "138",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240871321617:933978",
+                                "fileId": "224",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28335",
+                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHQBKzwVCyGji\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "AppBehaviour",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "139",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689241801289656:988375",
+                                "fileId": "230",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28336",
+                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHQBKzwVCyGji\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
                             }
                         ]
                     },
@@ -4770,55 +5176,142 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "name": "Images",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28327",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "maps",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "131",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240683189055:923824",
+                                "fileId": "202",
+                                "originalId": "203",
+                                "publicId": "28328",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Apps\/maps.png",
+                                "additional": {
+                                    "originHash": "2fbbde2509b11a3d36e22fc20a8f7cf3"
+                                }
+                            },
+                            {
+                                "name": "messages",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "132",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240683483075:923831",
+                                "fileId": "205",
+                                "originalId": "206",
+                                "publicId": "28329",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Apps\/messages.png",
+                                "additional": {
+                                    "originHash": "7517d7e48ef09609694362fc5d6e04b5"
+                                }
+                            },
+                            {
+                                "name": "music",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "133",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240683712693:923840",
+                                "fileId": "208",
+                                "originalId": "209",
+                                "publicId": "28330",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Apps\/music.png",
+                                "additional": {
+                                    "originHash": "48e70248c14666ef8d09682c73cf281d"
+                                }
+                            },
+                            {
+                                "name": "notes",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "134",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240684275469:925082",
+                                "fileId": "211",
+                                "originalId": "212",
+                                "publicId": "28331",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Apps\/notes.png",
+                                "additional": {
+                                    "originHash": "063f8393ace1286dfa90a68bc8910b3a"
+                                }
+                            },
+                            {
+                                "name": "phone",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "135",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240685158041:926334",
+                                "fileId": "214",
+                                "originalId": "215",
+                                "publicId": "28332",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Apps\/phone.png",
+                                "additional": {
+                                    "originHash": "833b25f2981efb83bc727337b8c5d8b6"
+                                }
+                            },
+                            {
+                                "name": "trending",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "136",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240686787433:928841",
+                                "fileId": "217",
+                                "originalId": "218",
+                                "publicId": "28333",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Apps\/trending.png",
+                                "additional": {
+                                    "originHash": "f638a7608907eae467c612b63a18b28e"
+                                }
+                            },
+                            {
+                                "name": "weather",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "137",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689240688100509:930103",
+                                "fileId": "220",
+                                "originalId": "221",
+                                "publicId": "28334",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Apps\/weather.png",
+                                "additional": {
+                                    "originHash": "192922b2d1362ddb31915460c2003acb"
+                                }
+                            }
+                        ]
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "slider_knob"
-                        ]
-                    },
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "slider_dot"
-                        ]
-                    },
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "CursorTip"
-                        ]
-                    },
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "backplateSlider600x180"
-                        ]
-                    },
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "BackplateMenu800x1150"
-                        ]
-                    },
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "BackplateIcon"
-                        ]
-                    },
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "BackplateClose300x300"
-                        ]
-                    }
+                "objects": [
+                    "1689241119782094:948109"
                 ]
             }
         },
@@ -5995,6 +6488,202 @@
                                     "settings_hash": "2049"
                                 },
                                 "v": "139"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689240683189055:923824",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1567107",
+                            "compressedSize": "459785",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "204",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "2fbbde2509b11a3d36e22fc20a8f7cf3",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "223"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689240683483075:923831",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1672381",
+                            "compressedSize": "497112",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "207",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7517d7e48ef09609694362fc5d6e04b5",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "225"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689240683712693:923840",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2164466",
+                            "compressedSize": "698941",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "210",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "48e70248c14666ef8d09682c73cf281d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "226"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689240684275469:925082",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1714106",
+                            "compressedSize": "497179",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "213",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "063f8393ace1286dfa90a68bc8910b3a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "227"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689240685158041:926334",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1866291",
+                            "compressedSize": "657301",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "216",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "833b25f2981efb83bc727337b8c5d8b6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "228"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689240686787433:928841",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2046277",
+                            "compressedSize": "620005",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "219",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f638a7608907eae467c612b63a18b28e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "229"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1689240688100509:930103",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2423358",
+                            "compressedSize": "690594",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "222",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "192922b2d1362ddb31915460c2003acb",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "231"
                             }
                         ]
                     }
