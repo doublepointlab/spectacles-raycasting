@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1689259049949",
+    "lastChanged": "1689259288999",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -330,9 +330,6 @@
                     ],
                     [
                         "Sphere"
-                    ],
-                    [
-                        "Text3D Default"
                     ],
                     [
                         "Textures"
@@ -1215,14 +1212,6 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
-                },
-                {
-                    "resId": "146",
-                    "uid": "1689257196107940:2037022",
-                    "name": "Files\/File245",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1901,14 +1890,6 @@
                 {
                     "k": "244",
                     "v": "Files\/File244.js"
-                },
-                {
-                    "k": "245",
-                    "v": "Files\/File245"
-                },
-                {
-                    "k": "246",
-                    "v": "Files\/File246.lsmat"
                 }
             ]
         },
@@ -2230,10 +2211,6 @@
                     {
                         "k": "28342",
                         "v": "Scripts\/MenuActivation.js"
-                    },
-                    {
-                        "k": "28343",
-                        "v": "Text3D Default.lsmat"
                     }
                 ],
                 "hashes": [
@@ -2719,7 +2696,7 @@
                     },
                     {
                         "k": "28268",
-                        "v": "9369198e4b3784148dcf0f4aa26aa034"
+                        "v": "db7312c094df1bae27646fe8e1b30c6f"
                     },
                     {
                         "k": "28269",
@@ -2955,7 +2932,7 @@
                     },
                     {
                         "k": "28342",
-                        "v": "4c67255d15f068bc4697a508b8281199"
+                        "v": "25871f12c46751658af5c68019edcd5b"
                     },
                     {
                         "k": "28343",
@@ -2965,9 +2942,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-07-13T17:06:36",
+                        "lastModified": "2023-07-13T17:40:56",
                         "name": "Public",
-                        "hash": "a8ecee4c72eb688d8b545ed08d1a9dd0",
+                        "hash": "b23a6266cbb0d981424a21e5ed545e1e",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -3475,20 +3452,20 @@
                                 "isFolder": "true",
                                 "lastModified": "2023-07-13T16:27:07",
                                 "name": "Scripts",
-                                "hash": "5e353d05a99601ae0b452fe8b66270c8",
+                                "hash": "42229ea06a361c3413f10b3df5c27f21",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T17:37:07",
+                                        "lastModified": "2023-07-13T17:38:28",
                                         "name": "MenuActivation.js",
-                                        "hash": "4c67255d15f068bc4697a508b8281199",
+                                        "hash": "25871f12c46751658af5c68019edcd5b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T16:40:46",
+                                        "lastModified": "2023-07-13T17:39:00",
                                         "name": "RayCaster.js",
-                                        "hash": "9369198e4b3784148dcf0f4aa26aa034",
+                                        "hash": "db7312c094df1bae27646fe8e1b30c6f",
                                         "children": ""
                                     },
                                     {
@@ -3611,13 +3588,6 @@
                                 "lastModified": "2022-09-06T00:41:01",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-13T17:06:36",
-                                "name": "Text3D Default.lsmat",
-                                "hash": "b03c204d297d919e799d3a40b5fcb16e",
                                 "children": ""
                             },
                             {
@@ -5478,30 +5448,12 @@
                                 }
                             }
                         ]
-                    },
-                    {
-                        "name": "Text3D Default",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "146",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1689257196107940:2037022",
-                        "fileId": "245",
-                        "originalId": "246",
-                        "publicId": "28343",
-                        "source": "",
-                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1689254594302313:1888097"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
