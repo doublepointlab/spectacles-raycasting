@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1689240459556",
+    "lastChanged": "1689240527389",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -32,76 +32,7 @@
             "collapsedList": [
                 [
                     [
-                        "BackplateClose300x300"
-                    ],
-                    [
-                        "BackplateClose300x300",
-                        "BackplateClose300x300"
-                    ],
-                    [
-                        "BackplateClose300x300",
-                        "Meshes"
-                    ],
-                    [
-                        "BackplateClose300x300",
-                        "Meshes",
-                        "Resource"
-                    ],
-                    [
-                        "BackplateIcon"
-                    ],
-                    [
-                        "BackplateIcon",
-                        "BackplateIcon"
-                    ],
-                    [
-                        "BackplateIcon",
-                        "Meshes"
-                    ],
-                    [
-                        "BackplateIcon",
-                        "Meshes",
-                        "Resource"
-                    ],
-                    [
-                        "BackplateMenu800x1150"
-                    ],
-                    [
-                        "BackplateMenu800x1150",
-                        "BackplateMenu800x1150"
-                    ],
-                    [
-                        "BackplateMenu800x1150",
-                        "Meshes"
-                    ],
-                    [
-                        "BackplateMenu800x1150",
-                        "Meshes",
-                        "Resource"
-                    ],
-                    [
                         "Box"
-                    ],
-                    [
-                        "CursorTip"
-                    ],
-                    [
-                        "CursorTip",
-                        "CursorTip"
-                    ],
-                    [
-                        "CursorTip",
-                        "Meshes"
-                    ],
-                    [
-                        "CursorTip",
-                        "Meshes",
-                        "Cube"
-                    ],
-                    [
-                        "CursorTip",
-                        "Meshes",
-                        "Cylinder"
                     ],
                     [
                         "Echopark"
@@ -152,6 +83,155 @@
                     [
                         "Materials",
                         "Unlit, Ray Line"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Models",
+                        "BackplateClose300x300"
+                    ],
+                    [
+                        "Models",
+                        "BackplateClose300x300",
+                        "BackplateClose300x300"
+                    ],
+                    [
+                        "Models",
+                        "BackplateClose300x300",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "BackplateClose300x300",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Models",
+                        "BackplateIcon"
+                    ],
+                    [
+                        "Models",
+                        "BackplateIcon",
+                        "BackplateIcon"
+                    ],
+                    [
+                        "Models",
+                        "BackplateIcon",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "BackplateIcon",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Models",
+                        "BackplateMenu800x1150"
+                    ],
+                    [
+                        "Models",
+                        "BackplateMenu800x1150",
+                        "BackplateMenu800x1150"
+                    ],
+                    [
+                        "Models",
+                        "BackplateMenu800x1150",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "BackplateMenu800x1150",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Models",
+                        "CursorTip"
+                    ],
+                    [
+                        "Models",
+                        "CursorTip",
+                        "CursorTip"
+                    ],
+                    [
+                        "Models",
+                        "CursorTip",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "CursorTip",
+                        "Meshes",
+                        "Cube"
+                    ],
+                    [
+                        "Models",
+                        "CursorTip",
+                        "Meshes",
+                        "Cylinder"
+                    ],
+                    [
+                        "Models",
+                        "backplateSlider600x180"
+                    ],
+                    [
+                        "Models",
+                        "backplateSlider600x180",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "backplateSlider600x180",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Models",
+                        "backplateSlider600x180",
+                        "backplateSlider600x180"
+                    ],
+                    [
+                        "Models",
+                        "slider_dot"
+                    ],
+                    [
+                        "Models",
+                        "slider_dot",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "slider_dot",
+                        "Meshes",
+                        "Slider_Dot_Cylinder"
+                    ],
+                    [
+                        "Models",
+                        "slider_dot",
+                        "slider_dot"
+                    ],
+                    [
+                        "Models",
+                        "slider_knob"
+                    ],
+                    [
+                        "Models",
+                        "slider_knob",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "slider_knob",
+                        "Meshes",
+                        "Slider_Knob_Cylinder"
+                    ],
+                    [
+                        "Models",
+                        "slider_knob",
+                        "slider_knob"
                     ],
                     [
                         "Scripts"
@@ -356,54 +436,6 @@
                         "Tween",
                         "Visual Scripting Custom Nodes",
                         "All Tween Nodes"
-                    ],
-                    [
-                        "backplateSlider600x180"
-                    ],
-                    [
-                        "backplateSlider600x180",
-                        "Meshes"
-                    ],
-                    [
-                        "backplateSlider600x180",
-                        "Meshes",
-                        "Resource"
-                    ],
-                    [
-                        "backplateSlider600x180",
-                        "backplateSlider600x180"
-                    ],
-                    [
-                        "slider_dot"
-                    ],
-                    [
-                        "slider_dot",
-                        "Meshes"
-                    ],
-                    [
-                        "slider_dot",
-                        "Meshes",
-                        "Slider_Dot_Cylinder"
-                    ],
-                    [
-                        "slider_dot",
-                        "slider_dot"
-                    ],
-                    [
-                        "slider_knob"
-                    ],
-                    [
-                        "slider_knob",
-                        "Meshes"
-                    ],
-                    [
-                        "slider_knob",
-                        "Meshes",
-                        "Slider_Knob_Cylinder"
-                    ],
-                    [
-                        "slider_knob",
-                        "slider_knob"
                     ]
                 ]
             ]
@@ -1666,31 +1698,31 @@
                     },
                     {
                         "k": "28278",
-                        "v": "BackplateClose300x300.obj"
+                        "v": "Models\/BackplateClose300x300.obj"
                     },
                     {
                         "k": "28279",
-                        "v": "BackplateIcon.obj"
+                        "v": "Models\/BackplateIcon.obj"
                     },
                     {
                         "k": "28280",
-                        "v": "BackplateMenu800x1150.obj"
+                        "v": "Models\/BackplateMenu800x1150.obj"
                     },
                     {
                         "k": "28281",
-                        "v": "backplateSlider600x180.obj"
+                        "v": "Models\/backplateSlider600x180.obj"
                     },
                     {
                         "k": "28282",
-                        "v": "CursorTip.obj"
+                        "v": "Models\/CursorTip.obj"
                     },
                     {
                         "k": "28283",
-                        "v": "slider_dot.obj"
+                        "v": "Models\/slider_dot.obj"
                     },
                     {
                         "k": "28284",
-                        "v": "slider_knob.obj"
+                        "v": "Models\/slider_knob.obj"
                     },
                     {
                         "k": "28286",
@@ -1839,6 +1871,10 @@
                     {
                         "k": "28325",
                         "v": "Materials"
+                    },
+                    {
+                        "k": "28326",
+                        "v": "Models"
                     }
                 ],
                 "hashes": [
@@ -2506,9 +2542,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-07-13T12:27:34",
+                        "lastModified": "2023-07-13T12:28:35",
                         "name": "Public",
-                        "hash": "3ccde5b0780654ac73158b0fdf1aa906",
+                        "hash": "664ad6797203ce43770cee1e3c798c30",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -2878,39 +2914,68 @@
                                 ]
                             },
                             {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:07",
-                                "name": "BackplateIcon.obj",
-                                "hash": "876107316b610bea9e33b4c8dbd8edf7",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:07",
-                                "name": "CursorTip.obj",
-                                "hash": "d4c85d2859d2f710f1ca32760946fcec",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:07",
-                                "name": "BackplateMenu800x1150.obj",
-                                "hash": "502a4f28c00c6155ca9ee1381a855a5b",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:07",
-                                "name": "slider_knob.obj",
-                                "hash": "18358b197c0965be059b81a4a1c2378d",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:07",
-                                "name": "BackplateClose300x300.obj",
-                                "hash": "a386904e04f095fd33c42e2a6e2ea5be",
-                                "children": ""
+                                "isFolder": "true",
+                                "lastModified": "2023-07-13T12:28:35",
+                                "name": "Models",
+                                "hash": "c45e56c28325ea2f03f0122d25db6105",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-07T13:06:07",
+                                        "name": "BackplateIcon.obj",
+                                        "hash": "876107316b610bea9e33b4c8dbd8edf7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-07T13:06:07",
+                                        "name": "CursorTip.obj",
+                                        "hash": "d4c85d2859d2f710f1ca32760946fcec",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-07T13:06:07",
+                                        "name": "BackplateMenu800x1150.obj",
+                                        "hash": "502a4f28c00c6155ca9ee1381a855a5b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-07T13:06:07",
+                                        "name": "slider_knob.obj",
+                                        "hash": "18358b197c0965be059b81a4a1c2378d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-07T13:06:07",
+                                        "name": "BackplateClose300x300.obj",
+                                        "hash": "a386904e04f095fd33c42e2a6e2ea5be",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-07T13:06:07",
+                                        "name": "slider_dot.obj",
+                                        "hash": "3580beafffc935fa3bd23bc55c2241a6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-07T13:06:07",
+                                        "name": "backplateSlider600x180.obj",
+                                        "hash": "b23944fadcae9d9d891e24cbd41c8aa6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:28:23",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "true",
@@ -3017,20 +3082,6 @@
                                 "lastModified": "2023-06-13T12:07:08",
                                 "name": "Box.mesh",
                                 "hash": "621da74e06cc402b895f39376927a9d1",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:07",
-                                "name": "slider_dot.obj",
-                                "hash": "3580beafffc935fa3bd23bc55c2241a6",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:07",
-                                "name": "backplateSlider600x180.obj",
-                                "hash": "b23944fadcae9d9d891e24cbd41c8aa6",
                                 "children": ""
                             },
                             {
@@ -3775,622 +3826,6 @@
                         }
                     },
                     {
-                        "name": "slider_knob",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "67",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28284",
-                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/slider_knob.obj",
-                        "additional": {
-                            "materialMapping": ""
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Slider_Knob_Cylinder",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "53",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479111722788:276581",
-                                        "fileId": "65",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "slider_knob",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "54",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1688479111834577:276604",
-                                "fileId": "66",
-                                "originalId": "105",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "slider_dot",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "63",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28283",
-                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/slider_dot.obj",
-                        "additional": {
-                            "materialMapping": ""
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Slider_Dot_Cylinder",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "51",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479111300852:276211",
-                                        "fileId": "61",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "slider_dot",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "52",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1688479111458514:276234",
-                                "fileId": "62",
-                                "originalId": "104",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "CursorTip",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "58",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28282",
-                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/CursorTip.obj",
-                        "additional": {
-                            "materialMapping": ""
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Cube",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "48",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479110866527:275802",
-                                        "fileId": "55",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    },
-                                    {
-                                        "name": "Cylinder",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "49",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479110975361:275813",
-                                        "fileId": "56",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "tangent",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    },
-                                                    {
-                                                        "semantic": "texture0",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "CursorTip",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "50",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1688479110991193:275849",
-                                "fileId": "57",
-                                "originalId": "103",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "backplateSlider600x180",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "53",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28281",
-                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/backplateSlider600x180.obj",
-                        "additional": {
-                            "materialMapping": ""
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Resource",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "46",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479110458816:275469",
-                                        "fileId": "51",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "backplateSlider600x180",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "47",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1688479110477833:275492",
-                                "fileId": "52",
-                                "originalId": "102",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "BackplateMenu800x1150",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "49",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28280",
-                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateMenu800x1150.obj",
-                        "additional": {
-                            "materialMapping": ""
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Resource",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "44",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479109915227:275151",
-                                        "fileId": "47",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "BackplateMenu800x1150",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "45",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1688479109926270:275174",
-                                "fileId": "48",
-                                "originalId": "101",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "BackplateIcon",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "45",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28279",
-                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateIcon.obj",
-                        "additional": {
-                            "materialMapping": ""
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Resource",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "42",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479109292168:274845",
-                                        "fileId": "43",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "BackplateIcon",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "43",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1688479109346603:274870",
-                                "fileId": "44",
-                                "originalId": "100",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "BackplateClose300x300",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "hidden": "false",
-                        "uid": "-1:-1",
-                        "fileId": "41",
-                        "originalId": "18446744073709551615",
-                        "publicId": "28278",
-                        "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateClose300x300.obj",
-                        "additional": {
-                            "materialMapping": ""
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Resource",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "40",
-                                        "dependency": "1",
-                                        "hidden": "false",
-                                        "uid": "1688479108801025:274560",
-                                        "fileId": "39",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": {
-                                            "info": {
-                                                "vertexAttribs": [
-                                                    {
-                                                        "semantic": "position",
-                                                        "format": "9",
-                                                        "canBeDisabled": "false"
-                                                    },
-                                                    {
-                                                        "semantic": "normal",
-                                                        "format": "9",
-                                                        "canBeDisabled": "true"
-                                                    }
-                                                ],
-                                                "hasBlendShapes": "false"
-                                            }
-                                        }
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "BackplateClose300x300",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "41",
-                                "dependency": "1",
-                                "hidden": "false",
-                                "uid": "1688479108811317:274583",
-                                "fileId": "40",
-                                "originalId": "99",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
                         "name": "Scripts",
                         "type": "0",
                         "subtype": "-1",
@@ -4703,12 +4138,689 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Models",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28326",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "slider_knob",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "67",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28284",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/slider_knob.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Slider_Knob_Cylinder",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "53",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479111722788:276581",
+                                                "fileId": "65",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "slider_knob",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "54",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479111834577:276604",
+                                        "fileId": "66",
+                                        "originalId": "105",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "slider_dot",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "63",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28283",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/slider_dot.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Slider_Dot_Cylinder",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "51",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479111300852:276211",
+                                                "fileId": "61",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "slider_dot",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "52",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479111458514:276234",
+                                        "fileId": "62",
+                                        "originalId": "104",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CursorTip",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "58",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28282",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/CursorTip.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Cube",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "48",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479110866527:275802",
+                                                "fileId": "55",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "Cylinder",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "49",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479110975361:275813",
+                                                "fileId": "56",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "CursorTip",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "50",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479110991193:275849",
+                                        "fileId": "57",
+                                        "originalId": "103",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "backplateSlider600x180",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "53",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28281",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/backplateSlider600x180.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Resource",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "46",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479110458816:275469",
+                                                "fileId": "51",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "backplateSlider600x180",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "47",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479110477833:275492",
+                                        "fileId": "52",
+                                        "originalId": "102",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BackplateMenu800x1150",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "49",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28280",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateMenu800x1150.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Resource",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "44",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479109915227:275151",
+                                                "fileId": "47",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "BackplateMenu800x1150",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "45",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479109926270:275174",
+                                        "fileId": "48",
+                                        "originalId": "101",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BackplateIcon",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "45",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28279",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateIcon.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Resource",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "42",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479109292168:274845",
+                                                "fileId": "43",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "BackplateIcon",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "43",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479109346603:274870",
+                                        "fileId": "44",
+                                        "originalId": "100",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BackplateClose300x300",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "41",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28278",
+                                "source": "\/Users\/arttu\/Downloads\/Export AR OS\/Models\/BackplateClose300x300.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Resource",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "40",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1688479108801025:274560",
+                                                "fileId": "39",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioiUdPtfQRySgE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "info": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "canBeDisabled": "false"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "canBeDisabled": "true"
+                                                            }
+                                                        ],
+                                                        "hasBlendShapes": "false"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "BackplateClose300x300",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "41",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1688479108811317:274583",
+                                        "fileId": "40",
+                                        "originalId": "99",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "slider_knob"
+                        ]
+                    },
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "slider_dot"
+                        ]
+                    },
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "CursorTip"
+                        ]
+                    },
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "backplateSlider600x180"
+                        ]
+                    },
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "BackplateMenu800x1150"
+                        ]
+                    },
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "BackplateIcon"
+                        ]
+                    },
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "BackplateClose300x300"
+                        ]
+                    }
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
