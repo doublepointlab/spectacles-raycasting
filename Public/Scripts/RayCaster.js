@@ -4,6 +4,8 @@
 global.subscribeOnProtoSensorframe(onProtoSensorframe);
 global.subscribeOnGesture(onGesture);
 
+script.getSceneObject().enabled = false;
+
 function onProtoSensorframe(frame) {
     var pGyro = frame.getGyro();
     var pGrav = frame.getGrav();
@@ -86,11 +88,12 @@ function raycast(to, from) {
 }
 
 
+
 function onHit(hit) {
 
     if (hit === null) {
  
-        global.LOG("no hit");
+        //global.LOG("no hit");
 
         if (hitObject !== null) {
             var scripts = hitObject.getComponents("ScriptComponent");

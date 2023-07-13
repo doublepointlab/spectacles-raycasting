@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1689254095784",
+    "lastChanged": "1689259049949",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -46,6 +46,9 @@
                         "Specular"
                     ],
                     [
+                        "Images"
+                    ],
+                    [
                         "Images",
                         "icn_close"
                     ],
@@ -76,6 +79,9 @@
                     [
                         "Images",
                         "weather"
+                    ],
+                    [
+                        "Materials"
                     ],
                     [
                         "Materials",
@@ -276,6 +282,10 @@
                     ],
                     [
                         "Scripts",
+                        "MenuActivation"
+                    ],
+                    [
+                        "Scripts",
                         "MenuBehaviour"
                     ],
                     [
@@ -319,10 +329,10 @@
                         "watch_output_pb"
                     ],
                     [
-                        "Simple PBR"
+                        "Sphere"
                     ],
                     [
-                        "Sphere"
+                        "Text3D Default"
                     ],
                     [
                         "Textures"
@@ -482,8 +492,11 @@
                 [
                     "1517446348227994:84813",
                     "1688479108948092:274601",
+                    "1688480265847311:278610",
                     "1688480649168112:281621",
-                    "1688735984038159:600097"
+                    "1688735984038159:600097",
+                    "1689237786253925:696251",
+                    "1689241093560100:948097"
                 ]
             ],
             "selectionSetList": ""
@@ -531,7 +544,8 @@
             "collapsedList": [
                 [
                     "1688491496198496:3132124",
-                    "1689236860734224:672304"
+                    "1689236860734224:672304",
+                    "1689257234742180:2050700"
                 ]
             ]
         },
@@ -542,7 +556,7 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1689253179258716:1762605"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -1195,9 +1209,17 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "144",
-                    "uid": "1689253179258716:1762605",
-                    "name": "Files\/File242",
+                    "resId": "145",
+                    "uid": "1689254768183323:1893396",
+                    "name": "Files\/File244.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1689257196107940:2037022",
+                    "name": "Files\/File245",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -1275,7 +1297,9 @@
                 "48": "1689253385726501:1784347",
                 "49": "1689253388150240:1789013",
                 "50": "1689253390602502:1794023",
-                "51": "1689253431871018:1799815"
+                "51": "1689253431871018:1799815",
+                "52": "1689254594302313:1888097",
+                "53": "1689257234740916:2050698"
             }
         },
         "LayerComponent": {
@@ -1875,12 +1899,16 @@
                     "v": "Files\/File235.pvr"
                 },
                 {
-                    "k": "242",
-                    "v": "Files\/File242"
+                    "k": "244",
+                    "v": "Files\/File244.js"
                 },
                 {
-                    "k": "243",
-                    "v": "Files\/File243.lsmat"
+                    "k": "245",
+                    "v": "Files\/File245"
+                },
+                {
+                    "k": "246",
+                    "v": "Files\/File246.lsmat"
                 }
             ]
         },
@@ -2200,8 +2228,12 @@
                         "v": "Images\/icn_close.png"
                     },
                     {
-                        "k": "28341",
-                        "v": "Simple PBR.lsmat"
+                        "k": "28342",
+                        "v": "Scripts\/MenuActivation.js"
+                    },
+                    {
+                        "k": "28343",
+                        "v": "Text3D Default.lsmat"
                     }
                 ],
                 "hashes": [
@@ -2679,7 +2711,7 @@
                     },
                     {
                         "k": "28266",
-                        "v": "c34ce2376937d38a01f161f1d1fab67f"
+                        "v": "ceec74840fd73908be00478e7ed4fb7c"
                     },
                     {
                         "k": "28267",
@@ -2687,7 +2719,7 @@
                     },
                     {
                         "k": "28268",
-                        "v": "68a34d9e1b67309eec4a5ef05316a8f5"
+                        "v": "9369198e4b3784148dcf0f4aa26aa034"
                     },
                     {
                         "k": "28269",
@@ -2699,7 +2731,7 @@
                     },
                     {
                         "k": "28271",
-                        "v": "96512415469165bad3e59343dde9a39a"
+                        "v": "77283c11b5bcbb9d307c41f785af2d31"
                     },
                     {
                         "k": "28273",
@@ -2895,7 +2927,7 @@
                     },
                     {
                         "k": "28335",
-                        "v": "1b087071ed5ef905e4a0ac13b83a6fc7"
+                        "v": "f10013156e2b96d7d1a340850c3885ed"
                     },
                     {
                         "k": "28336",
@@ -2920,22 +2952,23 @@
                     {
                         "k": "28341",
                         "v": "887bedd613030fd17b60e9d36966e8e7"
+                    },
+                    {
+                        "k": "28342",
+                        "v": "4c67255d15f068bc4697a508b8281199"
+                    },
+                    {
+                        "k": "28343",
+                        "v": "b03c204d297d919e799d3a40b5fcb16e"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-07-13T15:59:39",
+                        "lastModified": "2023-07-13T17:06:36",
                         "name": "Public",
-                        "hash": "2f3f9c7fbe5aa2129f0e79be0a63deb1",
+                        "hash": "a8ecee4c72eb688d8b545ed08d1a9dd0",
                         "children": [
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-13T15:59:39",
-                                "name": "Simple PBR.lsmat",
-                                "hash": "887bedd613030fd17b60e9d36966e8e7",
-                                "children": ""
-                            },
                             {
                                 "isFolder": "true",
                                 "lastModified": "2023-07-04T17:31:23",
@@ -3440,15 +3473,22 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2023-07-13T12:50:08",
+                                "lastModified": "2023-07-13T16:27:07",
                                 "name": "Scripts",
-                                "hash": "eda204a2771411fc271bc223d7dc73c5",
+                                "hash": "5e353d05a99601ae0b452fe8b66270c8",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T15:28:31",
+                                        "lastModified": "2023-07-13T17:37:07",
+                                        "name": "MenuActivation.js",
+                                        "hash": "4c67255d15f068bc4697a508b8281199",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T16:40:46",
                                         "name": "RayCaster.js",
-                                        "hash": "68a34d9e1b67309eec4a5ef05316a8f5",
+                                        "hash": "9369198e4b3784148dcf0f4aa26aa034",
                                         "children": ""
                                     },
                                     {
@@ -3467,9 +3507,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T15:21:20",
+                                        "lastModified": "2023-07-13T17:33:30",
                                         "name": "MenuBehaviour.js",
-                                        "hash": "c34ce2376937d38a01f161f1d1fab67f",
+                                        "hash": "ceec74840fd73908be00478e7ed4fb7c",
                                         "children": ""
                                     },
                                     {
@@ -3481,9 +3521,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:59:58",
+                                        "lastModified": "2023-07-13T17:05:16",
                                         "name": "WatchConnection.js",
-                                        "hash": "96512415469165bad3e59343dde9a39a",
+                                        "hash": "77283c11b5bcbb9d307c41f785af2d31",
                                         "children": ""
                                     },
                                     {
@@ -3538,9 +3578,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T15:46:25",
+                                        "lastModified": "2023-07-13T16:16:10",
                                         "name": "CloseAppButtonBehaviour.js",
-                                        "hash": "1b087071ed5ef905e4a0ac13b83a6fc7",
+                                        "hash": "f10013156e2b96d7d1a340850c3885ed",
                                         "children": ""
                                     },
                                     {
@@ -3571,6 +3611,13 @@
                                 "lastModified": "2022-09-06T00:41:01",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-07-13T17:06:36",
+                                "name": "Text3D Default.lsmat",
+                                "hash": "b03c204d297d919e799d3a40b5fcb16e",
                                 "children": ""
                             },
                             {
@@ -4497,6 +4544,20 @@
                                 "publicId": "28336",
                                 "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHQBKzwVCyGji\/\/system\/\/emergencyFiles\/emergencyJs.js",
                                 "additional": ""
+                            },
+                            {
+                                "name": "MenuActivation",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "145",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1689254768183323:1893396",
+                                "fileId": "244",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28342",
+                                "source": "\/Users\/arttu\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioHQBKzwVCyGji\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
                             }
                         ]
                     },
@@ -5419,16 +5480,16 @@
                         ]
                     },
                     {
-                        "name": "Simple PBR",
+                        "name": "Text3D Default",
                         "type": "2",
                         "subtype": "1",
-                        "resourceId": "144",
+                        "resourceId": "146",
                         "dependency": "0",
                         "hidden": "false",
-                        "uid": "1689253179258716:1762605",
-                        "fileId": "242",
-                        "originalId": "243",
-                        "publicId": "28341",
+                        "uid": "1689257196107940:2037022",
+                        "fileId": "245",
+                        "originalId": "246",
+                        "publicId": "28343",
                         "source": "",
                         "additional": ""
                     }
@@ -5438,7 +5499,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1689237786253925:696251"
+                    "1689254594302313:1888097"
                 ]
             }
         },

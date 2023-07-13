@@ -1,6 +1,7 @@
 // -----JS CODE-----
 
 var sceneObject = script.getSceneObject();
+sceneObject.enabled = false;
 
 function disable() {
     global.LOG("disabling?");
