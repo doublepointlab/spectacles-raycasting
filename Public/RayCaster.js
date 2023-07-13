@@ -15,9 +15,12 @@ function onProtoSensorframe(frame) {
 }
 
 function onGesture(gesture) {
-    // TODO
+    if (hitObject !== null) {
+        hitObject.getFirstComponent("ScriptComponent").api.onTap();
+    }
 }
 
+var hitObject = null;
 var transform = script.getSceneObject().getTransform();
 
 var grav = new vec3(10, 0, 0);
@@ -73,19 +76,37 @@ function updateRay(dir, from) {
 }
 
 function raycast(to, from) {
-
     var probe = Physics.createRootProbe();
-    //global.LOG("heh" + to + "\n" + from);
     probe.rayCast(from, to, onHit);
-    
 }
 
-function onHit(hit) {
-    if (hit == null) {
-        global.LOG("hit: " + hit);
-        return;
 
+function onHit(hit) {
+
+    if (hit === null) {
+ 
+        global.LOG("no hit");
+
+        if (hitObject !== null) {
+            hitObject.getFirstComponent("ScriptComponent").api.onMiss();
+        }
+        hitObject = null;
+        return;
     }
-    
-    global.LOG("hit: " + hit);
+
+    var newHitObject = hit.collider.getSceneObject();
+
+    if (hitObject !== null && newHitObject !== hitObject) {
+        hitObject.getFirstComponent("ScriptComponent").api.onMiss();
+    }
+
+    var colliderScript = newHitObject.getFirstComponent("ScriptComponent");
+
+    if (newHitObject !== hitObject) {
+        global.LOG("hit: " + colliderScript);
+        colliderScript.api.onHit();
+    }
+
+    hitObject = newHitObject;
+
 }

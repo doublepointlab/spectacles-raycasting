@@ -48,7 +48,7 @@ var scanPredicate = function(device, rssi, scan_record) {
     var data = manufacturerDatas[manufacturerDatas.length - 1];
     var kek = bin2str(data.advData());
     global.LOG("found: " + scan_record.getServiceUuids() + " : " + kek + " : " + foundDevice);
-    if (kek.indexOf("HQ") !== -1)
+    if (kek.indexOf("YAEV") !== -1)
         return foundDevice;
     else return false;
 }
