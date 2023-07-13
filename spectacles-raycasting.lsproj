@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1689240415677",
+    "lastChanged": "1689240459556",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -113,6 +113,45 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Blue"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Dark Grey"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Green"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Grey"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Light Black"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Orange"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Purple"
+                    ],
+                    [
+                        "Materials",
+                        "Uber PBR, Red"
+                    ],
+                    [
+                        "Materials",
+                        "Unlit, Ray Line"
                     ],
                     [
                         "Scripts"
@@ -317,33 +356,6 @@
                         "Tween",
                         "Visual Scripting Custom Nodes",
                         "All Tween Nodes"
-                    ],
-                    [
-                        "Uber PBR, Blue"
-                    ],
-                    [
-                        "Uber PBR, Dark Grey"
-                    ],
-                    [
-                        "Uber PBR, Green"
-                    ],
-                    [
-                        "Uber PBR, Grey"
-                    ],
-                    [
-                        "Uber PBR, Light Black"
-                    ],
-                    [
-                        "Uber PBR, Orange"
-                    ],
-                    [
-                        "Uber PBR, Purple"
-                    ],
-                    [
-                        "Uber PBR, Red"
-                    ],
-                    [
-                        "Unlit, Ray Line"
                     ],
                     [
                         "backplateSlider600x180"
@@ -1682,39 +1694,39 @@
                     },
                     {
                         "k": "28286",
-                        "v": "Uber PBR, Dark Grey.lsmat"
+                        "v": "Materials\/Uber PBR, Dark Grey.lsmat"
                     },
                     {
                         "k": "28287",
-                        "v": "Uber PBR, Green.lsmat"
+                        "v": "Materials\/Uber PBR, Green.lsmat"
                     },
                     {
                         "k": "28288",
-                        "v": "Uber PBR, Blue.lsmat"
+                        "v": "Materials\/Uber PBR, Blue.lsmat"
                     },
                     {
                         "k": "28289",
-                        "v": "Uber PBR, Light Black.lsmat"
+                        "v": "Materials\/Uber PBR, Light Black.lsmat"
                     },
                     {
                         "k": "28290",
-                        "v": "Uber PBR, Red.lsmat"
+                        "v": "Materials\/Uber PBR, Red.lsmat"
                     },
                     {
                         "k": "28291",
-                        "v": "Uber PBR, Purple.lsmat"
+                        "v": "Materials\/Uber PBR, Purple.lsmat"
                     },
                     {
                         "k": "28292",
-                        "v": "Uber PBR, Grey.lsmat"
+                        "v": "Materials\/Uber PBR, Grey.lsmat"
                     },
                     {
                         "k": "28293",
-                        "v": "Uber PBR, Orange.lsmat"
+                        "v": "Materials\/Uber PBR, Orange.lsmat"
                     },
                     {
                         "k": "28294",
-                        "v": "Unlit, Ray Line.lsmat"
+                        "v": "Materials\/Unlit, Ray Line.lsmat"
                     },
                     {
                         "k": "28295",
@@ -1823,6 +1835,10 @@
                     {
                         "k": "28323",
                         "v": "Scripts"
+                    },
+                    {
+                        "k": "28325",
+                        "v": "Materials"
                     }
                 ],
                 "hashes": [
@@ -2368,39 +2384,39 @@
                     },
                     {
                         "k": "28286",
-                        "v": "fce51b9d3233885435a0c8946e0d75ca"
+                        "v": "c8f11c9de03cce5f93b80ebb8ba4c238"
                     },
                     {
                         "k": "28287",
-                        "v": "9820100dc4e3e0eb7a024a5c041744b5"
+                        "v": "3326f37a9e734a6b3673dfcb311dd86a"
                     },
                     {
                         "k": "28288",
-                        "v": "726e2b578fcd3438b9d3ba899b4658de"
+                        "v": "b3ec514f70e961c197d17eb20c777b07"
                     },
                     {
                         "k": "28289",
-                        "v": "a7cc93097fea0ae35420f64da0a91b7f"
+                        "v": "f1628b47c3064c39ac92313a3432776e"
                     },
                     {
                         "k": "28290",
-                        "v": "443a1b994a7d2a99919d8a0ab22edb4e"
+                        "v": "4effb0db4ca4a7701a89e12d4ec27f65"
                     },
                     {
                         "k": "28291",
-                        "v": "6a2a78dc0f024b82b279509b9c545dc8"
+                        "v": "c44f49f588b00f9f30a9878ee1660072"
                     },
                     {
                         "k": "28292",
-                        "v": "2622e131f639496491a591c72decec9b"
+                        "v": "f3ffa577fa51935f707dcf83fbeda6f1"
                     },
                     {
                         "k": "28293",
-                        "v": "03bf32f6a505a116b108264ff78798f0"
+                        "v": "c98c4fd4e8e9945401c35115d7e9ea56"
                     },
                     {
                         "k": "28294",
-                        "v": "8cb5c51cd1a84886b3d2eadba15c5426"
+                        "v": "81af97cc8335ab959d10850e16f8d186"
                     },
                     {
                         "k": "28297",
@@ -2490,9 +2506,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-07-13T12:26:48",
+                        "lastModified": "2023-07-13T12:27:34",
                         "name": "Public",
-                        "hash": "e41c7cc652365b58ce52b4ec0c130276",
+                        "hash": "3ccde5b0780654ac73158b0fdf1aa906",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -2784,24 +2800,88 @@
                                 ]
                             },
                             {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:10",
-                                "name": "Uber PBR, Grey.lsmat",
-                                "hash": "2622e131f639496491a591c72decec9b",
-                                "children": ""
+                                "isFolder": "true",
+                                "lastModified": "2023-07-13T12:27:34",
+                                "name": "Materials",
+                                "hash": "202024dce6d682f499d48d99eae57ac2",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:37",
+                                        "name": "Uber PBR, Grey.lsmat",
+                                        "hash": "f3ffa577fa51935f707dcf83fbeda6f1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:37",
+                                        "name": "Uber PBR, Orange.lsmat",
+                                        "hash": "c98c4fd4e8e9945401c35115d7e9ea56",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:38",
+                                        "name": "Uber PBR, Dark Grey.lsmat",
+                                        "hash": "c8f11c9de03cce5f93b80ebb8ba4c238",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:37",
+                                        "name": "Uber PBR, Purple.lsmat",
+                                        "hash": "c44f49f588b00f9f30a9878ee1660072",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:38",
+                                        "name": "Uber PBR, Blue.lsmat",
+                                        "hash": "b3ec514f70e961c197d17eb20c777b07",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:11:56",
+                                        "name": "Unlit, Ray Line.lsmat",
+                                        "hash": "81af97cc8335ab959d10850e16f8d186",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:37",
+                                        "name": "Uber PBR, Red.lsmat",
+                                        "hash": "4effb0db4ca4a7701a89e12d4ec27f65",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:37",
+                                        "name": "Uber PBR, Light Black.lsmat",
+                                        "hash": "f1628b47c3064c39ac92313a3432776e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:05:38",
+                                        "name": "Uber PBR, Green.lsmat",
+                                        "hash": "3326f37a9e734a6b3673dfcb311dd86a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-13T12:27:21",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "false",
                                 "lastModified": "2023-07-07T13:06:07",
                                 "name": "BackplateIcon.obj",
                                 "hash": "876107316b610bea9e33b4c8dbd8edf7",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:10",
-                                "name": "Uber PBR, Orange.lsmat",
-                                "hash": "03bf32f6a505a116b108264ff78798f0",
                                 "children": ""
                             },
                             {
@@ -2820,30 +2900,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:09",
-                                "name": "Uber PBR, Dark Grey.lsmat",
-                                "hash": "fce51b9d3233885435a0c8946e0d75ca",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:10",
-                                "name": "Uber PBR, Purple.lsmat",
-                                "hash": "6a2a78dc0f024b82b279509b9c545dc8",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
                                 "lastModified": "2023-07-07T13:06:07",
                                 "name": "slider_knob.obj",
                                 "hash": "18358b197c0965be059b81a4a1c2378d",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:10",
-                                "name": "Uber PBR, Blue.lsmat",
-                                "hash": "726e2b578fcd3438b9d3ba899b4658de",
                                 "children": ""
                             },
                             {
@@ -2955,13 +3014,6 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-07-13T12:05:37",
-                                "name": "Unlit, Ray Line.lsmat",
-                                "hash": "8cb5c51cd1a84886b3d2eadba15c5426",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
                                 "lastModified": "2023-06-13T12:07:08",
                                 "name": "Box.mesh",
                                 "hash": "621da74e06cc402b895f39376927a9d1",
@@ -2990,30 +3042,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:10",
-                                "name": "Uber PBR, Red.lsmat",
-                                "hash": "443a1b994a7d2a99919d8a0ab22edb4e",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
                                 "lastModified": "2022-09-06T00:41:01",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:10",
-                                "name": "Uber PBR, Light Black.lsmat",
-                                "hash": "a7cc93097fea0ae35420f64da0a91b7f",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2023-07-07T13:06:09",
-                                "name": "Uber PBR, Green.lsmat",
-                                "hash": "9820100dc4e3e0eb7a024a5c041744b5",
                                 "children": ""
                             },
                             {
@@ -4360,132 +4391,6 @@
                         ]
                     },
                     {
-                        "name": "Unlit, Ray Line",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "71",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688483524062099:807444",
-                        "fileId": "107",
-                        "originalId": "108",
-                        "publicId": "28294",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Orange",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "69",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481422048207:299727",
-                        "fileId": "97",
-                        "originalId": "98",
-                        "publicId": "28293",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Grey",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "68",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481408606742:298468",
-                        "fileId": "95",
-                        "originalId": "96",
-                        "publicId": "28292",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Purple",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "67",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481382931791:297218",
-                        "fileId": "93",
-                        "originalId": "94",
-                        "publicId": "28291",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Red",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "66",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481366626091:295992",
-                        "fileId": "91",
-                        "originalId": "92",
-                        "publicId": "28290",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Light Black",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "65",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481343408795:294770",
-                        "fileId": "89",
-                        "originalId": "90",
-                        "publicId": "28289",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Blue",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "64",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481328480401:293552",
-                        "fileId": "87",
-                        "originalId": "88",
-                        "publicId": "28288",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Green",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "63",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481302138462:291940",
-                        "fileId": "85",
-                        "originalId": "86",
-                        "publicId": "28287",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Uber PBR, Dark Grey",
-                        "type": "2",
-                        "subtype": "1",
-                        "resourceId": "58",
-                        "dependency": "0",
-                        "hidden": "false",
-                        "uid": "1688481083712595:287684",
-                        "fileId": "75",
-                        "originalId": "76",
-                        "publicId": "28286",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
                         "name": "Scripts",
                         "type": "0",
                         "subtype": "-1",
@@ -4653,6 +4558,148 @@
                                 "originalId": "18446744073709551615",
                                 "publicId": "28270",
                                 "source": "\/Users\/arttu\/Documents\/spectacles-raycasting\/Public\/PointerOrientation.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28325",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Unlit, Ray Line",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "71",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688483524062099:807444",
+                                "fileId": "107",
+                                "originalId": "108",
+                                "publicId": "28294",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Orange",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "69",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481422048207:299727",
+                                "fileId": "97",
+                                "originalId": "98",
+                                "publicId": "28293",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Grey",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "68",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481408606742:298468",
+                                "fileId": "95",
+                                "originalId": "96",
+                                "publicId": "28292",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Purple",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "67",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481382931791:297218",
+                                "fileId": "93",
+                                "originalId": "94",
+                                "publicId": "28291",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Red",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "66",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481366626091:295992",
+                                "fileId": "91",
+                                "originalId": "92",
+                                "publicId": "28290",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Light Black",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "65",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481343408795:294770",
+                                "fileId": "89",
+                                "originalId": "90",
+                                "publicId": "28289",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Blue",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "64",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481328480401:293552",
+                                "fileId": "87",
+                                "originalId": "88",
+                                "publicId": "28288",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Green",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "63",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481302138462:291940",
+                                "fileId": "85",
+                                "originalId": "86",
+                                "publicId": "28287",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Uber PBR, Dark Grey",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "58",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1688481083712595:287684",
+                                "fileId": "75",
+                                "originalId": "76",
+                                "publicId": "28286",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
