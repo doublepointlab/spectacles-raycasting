@@ -16,7 +16,12 @@ function onProtoSensorframe(frame) {
 
 function onGesture(gesture) {
     if (hitObject !== null && gesture == 1) {
-        hitObject.getFirstComponent("ScriptComponent").api.onTap();
+        var scripts = hitObject.getComponents("ScriptComponent");
+        for (var i = 0; i < scripts.length; i++) {
+            if (scripts[i].api && scripts[i].api.onTap) {
+                scripts[i].api.onTap();
+            }
+        }
     }
 }
 
@@ -88,7 +93,12 @@ function onHit(hit) {
         global.LOG("no hit");
 
         if (hitObject !== null) {
-            hitObject.getFirstComponent("ScriptComponent").api.onMiss();
+            var scripts = hitObject.getComponents("ScriptComponent");
+            for (var i = 0; i < scripts.length; i++) {
+                if (scripts[i].api && scripts[i].api.onMiss) {
+                    scripts[i].api.onMiss();
+                }
+            }
         }
         hitObject = null;
         return;
@@ -97,14 +107,22 @@ function onHit(hit) {
     var newHitObject = hit.collider.getSceneObject();
 
     if (hitObject !== null && newHitObject !== hitObject) {
-        hitObject.getFirstComponent("ScriptComponent").api.onMiss();
+        var scripts = hitObject.getComponents("ScriptComponent");
+        for (var i = 0; i < scripts.length; i++) {
+            if (scripts[i].api && scripts[i].api.onMiss) {
+                scripts[i].api.onMiss();
+            }
+        }
     }
 
-    var colliderScript = newHitObject.getFirstComponent("ScriptComponent");
-
     if (newHitObject !== hitObject) {
-        global.LOG("hit: " + colliderScript);
-        colliderScript.api.onHit();
+        global.LOG("hit: " + newHitObject);
+        var scripts = newHitObject.getComponents("ScriptComponent");
+        for (var i = 0; i < scripts.length; i++) {
+            if (scripts[i].api && scripts[i].api.onHit) {
+                scripts[i].api.onHit();
+            }
+        }
     }
 
     hitObject = newHitObject;
