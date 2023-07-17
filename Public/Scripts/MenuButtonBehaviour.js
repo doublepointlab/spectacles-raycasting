@@ -1,7 +1,7 @@
 // -----JS CODE-----
 // @input SceneObject targetSceneObject
 
-var transform = script.getSceneObject().getTransform();
+var transform = script.getSceneObject().getParent().getTransform();
 
 function onHit() {
     transform.setLocalScale(new vec3(1.2, 1.2, 1.2));
@@ -14,7 +14,7 @@ function onMiss() {
 function onTap() {
   
     global.LOG("tap");
-    global.tweenManager.startTween(script.getSceneObject(), "rotate_x");
+    global.tweenManager.startTween(script.getSceneObject().getParent(), "rotate_x");
 
     if (script.targetSceneObject) {
         var scripts = script.targetSceneObject.getComponents("ScriptComponent");
