@@ -3,7 +3,7 @@
     "document_id": "9HHL7C2QHs0cxOZJOGWI",
     "original_document_id": "9HHL7C2QHs0cxOZJOGWI",
     "version": "29",
-    "lastChanged": "1689601184517",
+    "lastChanged": "1689759007368",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -44,6 +44,9 @@
                     [
                         "Echopark",
                         "Specular"
+                    ],
+                    [
+                        "Images"
                     ],
                     [
                         "Images",
@@ -138,39 +141,36 @@
                         "weather"
                     ],
                     [
-                        "Materials"
+                        "Materials",
+                        "Unlit blue"
                     ],
                     [
                         "Materials",
-                        "Uber PBR, Blue"
+                        "Unlit dark grey"
                     ],
                     [
                         "Materials",
-                        "Uber PBR, Dark Grey"
+                        "Unlit green"
                     ],
                     [
                         "Materials",
-                        "Uber PBR, Green"
+                        "Unlit grey"
                     ],
                     [
                         "Materials",
-                        "Uber PBR, Grey"
+                        "Unlit light black"
                     ],
                     [
                         "Materials",
-                        "Uber PBR, Light Black"
+                        "Unlit orange"
                     ],
                     [
                         "Materials",
-                        "Uber PBR, Orange"
+                        "Unlit purple"
                     ],
                     [
                         "Materials",
-                        "Uber PBR, Purple"
-                    ],
-                    [
-                        "Materials",
-                        "Uber PBR, Red"
+                        "Unlit red"
                     ],
                     [
                         "Materials",
@@ -546,9 +546,7 @@
                 [
                     "1517446348227994:84813",
                     "1688479108948092:274601",
-                    "1688735984038159:600097",
-                    "1689237786253925:696251",
-                    "1689241093560100:948097"
+                    "1688735984038159:600097"
                 ]
             ],
             "selectionSetList": ""
@@ -862,14 +860,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "58",
-                    "uid": "1688481083712595:287684",
-                    "name": "Files\/File75",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "59",
                     "uid": "1688481083840062:287753",
                     "name": "Files\/File77.jpg",
@@ -889,62 +879,6 @@
                     "resId": "61",
                     "uid": "1688481083865280:287773",
                     "name": "Files\/File81.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "63",
-                    "uid": "1688481302138462:291940",
-                    "name": "Files\/File85",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "64",
-                    "uid": "1688481328480401:293552",
-                    "name": "Files\/File87",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "65",
-                    "uid": "1688481343408795:294770",
-                    "name": "Files\/File89",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "66",
-                    "uid": "1688481366626091:295992",
-                    "name": "Files\/File91",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "67",
-                    "uid": "1688481382931791:297218",
-                    "name": "Files\/File93",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "68",
-                    "uid": "1688481408606742:298468",
-                    "name": "Files\/File95",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "69",
-                    "uid": "1688481422048207:299727",
-                    "name": "Files\/File97",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -1508,6 +1442,70 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1689756102366606:29719",
+                    "name": "Files\/File461",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1689756152828988:36578",
+                    "name": "Files\/File463",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1689756155326742:39635",
+                    "name": "Files\/File465",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1689756157857324:42697",
+                    "name": "Files\/File467",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1689756161449213:45772",
+                    "name": "Files\/File469",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1689756164480131:48852",
+                    "name": "Files\/File471",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1689756167244595:51937",
+                    "name": "Files\/File473",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1689756224917161:75822",
+                    "name": "Files\/File475",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1798,14 +1796,6 @@
                     "v": "Files\/File74.png"
                 },
                 {
-                    "k": "75",
-                    "v": "Files\/File75"
-                },
-                {
-                    "k": "76",
-                    "v": "Files\/File76.lsmat"
-                },
-                {
                     "k": "77",
                     "v": "Files\/File77.png"
                 },
@@ -1828,62 +1818,6 @@
                 {
                     "k": "82",
                     "v": "Files\/File82.png"
-                },
-                {
-                    "k": "85",
-                    "v": "Files\/File85"
-                },
-                {
-                    "k": "86",
-                    "v": "Files\/File86.lsmat"
-                },
-                {
-                    "k": "87",
-                    "v": "Files\/File87"
-                },
-                {
-                    "k": "88",
-                    "v": "Files\/File88.lsmat"
-                },
-                {
-                    "k": "89",
-                    "v": "Files\/File89"
-                },
-                {
-                    "k": "90",
-                    "v": "Files\/File90.lsmat"
-                },
-                {
-                    "k": "91",
-                    "v": "Files\/File91"
-                },
-                {
-                    "k": "92",
-                    "v": "Files\/File92.lsmat"
-                },
-                {
-                    "k": "93",
-                    "v": "Files\/File93"
-                },
-                {
-                    "k": "94",
-                    "v": "Files\/File94.lsmat"
-                },
-                {
-                    "k": "95",
-                    "v": "Files\/File95"
-                },
-                {
-                    "k": "96",
-                    "v": "Files\/File96.lsmat"
-                },
-                {
-                    "k": "97",
-                    "v": "Files\/File97"
-                },
-                {
-                    "k": "98",
-                    "v": "Files\/File98.lsmat"
                 },
                 {
                     "k": "99",
@@ -2424,6 +2358,70 @@
                 {
                     "k": "460",
                     "v": "Files\/File460.pvr"
+                },
+                {
+                    "k": "461",
+                    "v": "Files\/File461"
+                },
+                {
+                    "k": "462",
+                    "v": "Files\/File462.lsmat"
+                },
+                {
+                    "k": "463",
+                    "v": "Files\/File463"
+                },
+                {
+                    "k": "464",
+                    "v": "Files\/File464.lsmat"
+                },
+                {
+                    "k": "465",
+                    "v": "Files\/File465"
+                },
+                {
+                    "k": "466",
+                    "v": "Files\/File466.lsmat"
+                },
+                {
+                    "k": "467",
+                    "v": "Files\/File467"
+                },
+                {
+                    "k": "468",
+                    "v": "Files\/File468.lsmat"
+                },
+                {
+                    "k": "469",
+                    "v": "Files\/File469"
+                },
+                {
+                    "k": "470",
+                    "v": "Files\/File470.lsmat"
+                },
+                {
+                    "k": "471",
+                    "v": "Files\/File471"
+                },
+                {
+                    "k": "472",
+                    "v": "Files\/File472.lsmat"
+                },
+                {
+                    "k": "473",
+                    "v": "Files\/File473"
+                },
+                {
+                    "k": "474",
+                    "v": "Files\/File474.lsmat"
+                },
+                {
+                    "k": "475",
+                    "v": "Files\/File475"
+                },
+                {
+                    "k": "476",
+                    "v": "Files\/File476.lsmat"
                 }
             ]
         },
@@ -2545,38 +2543,6 @@
                     {
                         "k": "28284",
                         "v": "Models\/slider_knob.obj"
-                    },
-                    {
-                        "k": "28286",
-                        "v": "Materials\/Uber PBR, Dark Grey.lsmat"
-                    },
-                    {
-                        "k": "28287",
-                        "v": "Materials\/Uber PBR, Green.lsmat"
-                    },
-                    {
-                        "k": "28288",
-                        "v": "Materials\/Uber PBR, Blue.lsmat"
-                    },
-                    {
-                        "k": "28289",
-                        "v": "Materials\/Uber PBR, Light Black.lsmat"
-                    },
-                    {
-                        "k": "28290",
-                        "v": "Materials\/Uber PBR, Red.lsmat"
-                    },
-                    {
-                        "k": "28291",
-                        "v": "Materials\/Uber PBR, Purple.lsmat"
-                    },
-                    {
-                        "k": "28292",
-                        "v": "Materials\/Uber PBR, Grey.lsmat"
-                    },
-                    {
-                        "k": "28293",
-                        "v": "Materials\/Uber PBR, Orange.lsmat"
                     },
                     {
                         "k": "28294",
@@ -2805,6 +2771,38 @@
                     {
                         "k": "28420",
                         "v": "Images\/icn=icn_weather.png"
+                    },
+                    {
+                        "k": "28421",
+                        "v": "Materials\/Unlit orange.lsmat"
+                    },
+                    {
+                        "k": "28422",
+                        "v": "Materials\/Unlit grey.lsmat"
+                    },
+                    {
+                        "k": "28423",
+                        "v": "Materials\/Unlit purple.lsmat"
+                    },
+                    {
+                        "k": "28424",
+                        "v": "Materials\/Unlit red.lsmat"
+                    },
+                    {
+                        "k": "28425",
+                        "v": "Materials\/Unlit light black.lsmat"
+                    },
+                    {
+                        "k": "28426",
+                        "v": "Materials\/Unlit blue.lsmat"
+                    },
+                    {
+                        "k": "28427",
+                        "v": "Materials\/Unlit green.lsmat"
+                    },
+                    {
+                        "k": "28428",
+                        "v": "Materials\/Unlit dark grey.lsmat"
                     }
                 ],
                 "hashes": [
@@ -3374,11 +3372,11 @@
                     },
                     {
                         "k": "28292",
-                        "v": "a7beed1c5d6f7c5f4d29ca2c5663d8e9"
+                        "v": "8f150ae9a61b353893b37f0ee147f83f"
                     },
                     {
                         "k": "28293",
-                        "v": "c98c4fd4e8e9945401c35115d7e9ea56"
+                        "v": "9613ef2831d4f8e146a66d907cd523cf"
                     },
                     {
                         "k": "28294",
@@ -3842,7 +3840,35 @@
                     },
                     {
                         "k": "28421",
-                        "v": "311c53f385894c4208520cc7b1907aaf"
+                        "v": "85630bb4a9d4f893a16aea0113990470"
+                    },
+                    {
+                        "k": "28422",
+                        "v": "adfdca4c87962aa40b18b48d58c5bbf4"
+                    },
+                    {
+                        "k": "28423",
+                        "v": "8fd5cd76ccdaad6661c8fc06375ff9b5"
+                    },
+                    {
+                        "k": "28424",
+                        "v": "457a2182da3912585175bcfc5813262f"
+                    },
+                    {
+                        "k": "28425",
+                        "v": "78d042e1f77ec73fcd092bdd671ac9ff"
+                    },
+                    {
+                        "k": "28426",
+                        "v": "7e3dd1ab9e610308e59b2665f5ec5f67"
+                    },
+                    {
+                        "k": "28427",
+                        "v": "7ea3d05cf94fa95947f1ecf9efc30cab"
+                    },
+                    {
+                        "k": "28428",
+                        "v": "5a66c44dac94840aa16292fd6c5400fc"
                     }
                 ],
                 "publicState": {
@@ -3850,7 +3876,7 @@
                         "isFolder": "true",
                         "lastModified": "2023-07-17T14:49:26",
                         "name": "Public",
-                        "hash": "b4fb2e5a3c62bcb61f11af130f44b903",
+                        "hash": "f7561e18dfe51a464d0701079dc9113f",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -4143,43 +4169,50 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2023-07-17T16:39:14",
+                                "lastModified": "2023-07-19T11:47:55",
                                 "name": "Materials",
-                                "hash": "691d24efc97bc297149e487f96d4004b",
+                                "hash": "cda418a2209ae2bff11d40ab4d8a4843",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-17T15:03:41",
-                                        "name": "Uber PBR, Grey.lsmat",
-                                        "hash": "a7beed1c5d6f7c5f4d29ca2c5663d8e9",
+                                        "lastModified": "2023-07-19T11:42:44",
+                                        "name": "Unlit blue.lsmat",
+                                        "hash": "7e3dd1ab9e610308e59b2665f5ec5f67",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:05:37",
-                                        "name": "Uber PBR, Orange.lsmat",
-                                        "hash": "c98c4fd4e8e9945401c35115d7e9ea56",
+                                        "lastModified": "2023-07-19T11:43:45",
+                                        "name": "Unlit dark grey.lsmat",
+                                        "hash": "5a66c44dac94840aa16292fd6c5400fc",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T16:01:05",
-                                        "name": "Uber PBR, Dark Grey.lsmat",
-                                        "hash": "ea7582e0caca73a75909a5877ac4db36",
+                                        "lastModified": "2023-07-19T11:42:41",
+                                        "name": "Unlit light black.lsmat",
+                                        "hash": "78d042e1f77ec73fcd092bdd671ac9ff",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:05:37",
-                                        "name": "Uber PBR, Purple.lsmat",
-                                        "hash": "c44f49f588b00f9f30a9878ee1660072",
+                                        "lastModified": "2023-07-19T11:42:35",
+                                        "name": "Unlit purple.lsmat",
+                                        "hash": "8fd5cd76ccdaad6661c8fc06375ff9b5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:05:38",
-                                        "name": "Uber PBR, Blue.lsmat",
-                                        "hash": "b3ec514f70e961c197d17eb20c777b07",
+                                        "lastModified": "2023-07-19T11:42:32",
+                                        "name": "Unlit grey.lsmat",
+                                        "hash": "adfdca4c87962aa40b18b48d58c5bbf4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-07-19T11:41:42",
+                                        "name": "Unlit orange.lsmat",
+                                        "hash": "85630bb4a9d4f893a16aea0113990470",
                                         "children": ""
                                     },
                                     {
@@ -4191,23 +4224,16 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:05:37",
-                                        "name": "Uber PBR, Red.lsmat",
-                                        "hash": "4effb0db4ca4a7701a89e12d4ec27f65",
+                                        "lastModified": "2023-07-19T11:42:38",
+                                        "name": "Unlit red.lsmat",
+                                        "hash": "457a2182da3912585175bcfc5813262f",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:05:37",
-                                        "name": "Uber PBR, Light Black.lsmat",
-                                        "hash": "f1628b47c3064c39ac92313a3432776e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2023-07-13T12:05:38",
-                                        "name": "Uber PBR, Green.lsmat",
-                                        "hash": "3326f37a9e734a6b3673dfcb311dd86a",
+                                        "lastModified": "2023-07-19T11:42:47",
+                                        "name": "Unlit green.lsmat",
+                                        "hash": "7ea3d05cf94fa95947f1ecf9efc30cab",
                                         "children": ""
                                     },
                                     {
@@ -5571,114 +5597,114 @@
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Orange",
+                                "name": "Unlit orange",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "69",
+                                "resourceId": "215",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481422048207:299727",
-                                "fileId": "97",
-                                "originalId": "98",
-                                "publicId": "28293",
+                                "uid": "1689756102366606:29719",
+                                "fileId": "461",
+                                "originalId": "462",
+                                "publicId": "28421",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Grey",
+                                "name": "Unlit grey",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "68",
+                                "resourceId": "216",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481408606742:298468",
-                                "fileId": "95",
-                                "originalId": "96",
-                                "publicId": "28292",
+                                "uid": "1689756152828988:36578",
+                                "fileId": "463",
+                                "originalId": "464",
+                                "publicId": "28422",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Purple",
+                                "name": "Unlit purple",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "67",
+                                "resourceId": "217",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481382931791:297218",
-                                "fileId": "93",
-                                "originalId": "94",
-                                "publicId": "28291",
+                                "uid": "1689756155326742:39635",
+                                "fileId": "465",
+                                "originalId": "466",
+                                "publicId": "28423",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Red",
+                                "name": "Unlit red",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "66",
+                                "resourceId": "218",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481366626091:295992",
-                                "fileId": "91",
-                                "originalId": "92",
-                                "publicId": "28290",
+                                "uid": "1689756157857324:42697",
+                                "fileId": "467",
+                                "originalId": "468",
+                                "publicId": "28424",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Light Black",
+                                "name": "Unlit light black",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "65",
+                                "resourceId": "219",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481343408795:294770",
-                                "fileId": "89",
-                                "originalId": "90",
-                                "publicId": "28289",
+                                "uid": "1689756161449213:45772",
+                                "fileId": "469",
+                                "originalId": "470",
+                                "publicId": "28425",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Blue",
+                                "name": "Unlit blue",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "64",
+                                "resourceId": "220",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481328480401:293552",
-                                "fileId": "87",
-                                "originalId": "88",
-                                "publicId": "28288",
+                                "uid": "1689756164480131:48852",
+                                "fileId": "471",
+                                "originalId": "472",
+                                "publicId": "28426",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Green",
+                                "name": "Unlit green",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "63",
+                                "resourceId": "221",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481302138462:291940",
-                                "fileId": "85",
-                                "originalId": "86",
-                                "publicId": "28287",
+                                "uid": "1689756167244595:51937",
+                                "fileId": "473",
+                                "originalId": "474",
+                                "publicId": "28427",
                                 "source": "",
                                 "additional": ""
                             },
                             {
-                                "name": "Uber PBR, Dark Grey",
+                                "name": "Unlit dark grey",
                                 "type": "2",
                                 "subtype": "1",
-                                "resourceId": "58",
+                                "resourceId": "222",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1688481083712595:287684",
-                                "fileId": "75",
-                                "originalId": "76",
-                                "publicId": "28286",
+                                "uid": "1689756224917161:75822",
+                                "fileId": "475",
+                                "originalId": "476",
+                                "publicId": "28428",
                                 "source": "",
                                 "additional": ""
                             }
@@ -6706,7 +6732,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1686655059709602:1012902"
+                    "1689241093560100:948097"
                 ]
             }
         },
