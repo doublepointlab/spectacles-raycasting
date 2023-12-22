@@ -46,11 +46,9 @@ var scanPredicate = function(device, rssi, scan_record) {
 
     var manufacturerDatas = scan_record.getManufacturerAdvData();
     var data = manufacturerDatas[manufacturerDatas.length - 1];
-    var kek = bin2str(data.advData());
-    global.LOG("found: " + scan_record.getServiceUuids() + " : " + kek + " : " + foundDevice);
-    if (kek.indexOf("YAEV") !== -1)
-        return foundDevice;
-    else return false;
+    var id = bin2str(data.advData());
+    global.LOG("found: " + scan_record.getServiceUuids() + " : " + id + " : " + foundDevice);
+    return foundDevice;
 }
 
 // Called on device disconnect
